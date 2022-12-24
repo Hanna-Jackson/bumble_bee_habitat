@@ -41,6 +41,7 @@ for (ii in c("raw_data","data_for_run","models","saved")){
   } 
 }
 
+## ~~~ IMPORTANT: Downloading the data ~~~ 
 ## Next you'll need to put the data into the raw_data folder manually
 ## by downloading the data from the paper's Data Dryad or github page
 ## (https://github.com/Hanna-Jackson/bumble_bee_habitat). 
