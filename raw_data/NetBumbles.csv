@@ -1,0 +1,71 @@
+FireYear,Plot,Round,Species,Caste,Abundance,PlantSpecies
+2009,S1,1,bifarius,queen,1,Utah honeysuckle
+2009,S1,1,insularis,queen,2,Utah honeysuckle
+2009,S1,1,bifarius,queen,3,nest searching
+2009,S1,1,bifarius,queen,1,dwarf bilberry
+2009,S1,1,flavifrons,queen,1,Utah honeysuckle
+2009,S1,1,mixtus,queen,1,nest searching
+2009,S1,2,bifarius,worker,1,subalpine daisy
+2009,S1,2,flavifrons,worker,2,lousewort
+2009,S2,1,bifarius,queen,1,arctic lupin
+2009,S2,2,bifarius,worker,3,sitka valerian
+2009,S2,2,bifarius,queen,1,arnica
+2009,S2,2,insularis,queen,1,agoseris
+2009,S2,2,bifarius,worker,1,orange hawkweed
+2009,S3,1,bifarius,queen,2,dwarf bilberry
+2009,S3,2,flavifrons,worker,1,agoseris
+2009,S3,2,bifarius,worker,2,subalpine daisy
+2009,S3,2,insularis,queen,1,nest searching
+2009,S4,1,NA,NA,0,NA
+2009,S4,2,flavifrons,worker,1,subalpine daisy
+2009,S4,2,melanopygus,worker,1,subalpine daisy
+2009,S4,2,flavidus,male,2,subalpine daisy
+2009,S4,2,insularis,male,1,subalpine daisy
+2009,S4,2,bifarius,worker,1,lupin
+2010,S1,1,mixtus,worker,1,sitka valerian
+2010,S1,1,bifarius,queen,2,dwarf bilberry
+2010,S1,1,bifarius,queen,1,nest searching
+2010,S1,1,bifarius,queen,1,arnica
+2010,S1,2,bifarius,worker,1,senecio
+2010,S1,2,mixtus,worker,1,senecio
+2010,S1,2,bifarius,worker,1,arnica
+2010,S1,2,mixtus,worker,1,fireweed
+2010,S2,1,NA,NA,0,NA
+2010,S2,2,bifarius,worker,1,subalpine daisy
+2010,S3,1,bifarius,worker,2,sitka valerian
+2010,S3,2,bifarius,worker,2,arnica
+2010,S3,2,bifarius,worker,2,subalpine daisy
+2010,S4,1,flavidus,queen,2,sitka valerian
+2010,S4,1,mixtus,worker,2,white rhodo
+2010,S4,1,melanopygus,worker,2,white rhodo
+2010,S4,2,flavifrons,male,1,fireweed
+2010,S4,2,bifarius,worker,1,subalpine daisy
+2010,S4,2,bifarius,male,5,subalpine daisy
+2010,S4,2,flavidus,male,6,subalpine daisy
+2010,S4,2,mixtus,worker,1,subalpine daisy
+2010,S4,2,melanopygus,male,2,subalpine daisy
+2010,S4,2,mixtus,male,1,subalpine daisy
+2017,S1,1,bifarius,worker,1,fireweed
+2017,S1,1,mixtus,worker,1,fireweed
+2017,S1,1,mixtus,worker,1,snowberry
+2017,S1,1,bifarius,worker,2,spreading dogbane
+2017,S1,1,rufocinctus,worker,2,spreading dogbane
+2017,S1,2,rufocinctus,worker,2,douglas aster
+2017,S1,2,rufocinctus,worker,4,fireweed
+2017,S1,2,bifarius,worker,2,fireweed
+2017,S1,2,bifarius,male,1,fireweed
+2017,S1,2,bifarius,worker,1,snowberry
+2017,S2,1,rufocinctus,worker,1,fireweed
+2017,S2,2,bifarius,worker,1,fireweed
+2017,S2,2,mixtus,male,1,fireweed
+2017,S2,2,terricola,worker,1,douglas aster
+2017,S2,2,rufocinctus,worker,1,douglas aster
+2017,S3,1,rufocinctus,worker,1,spreading dogbane
+2017,S3,1,bifarius,queen,1,nest searching
+2017,S3,2,NA,NA,0,NA
+2017,S4,1,mixtus,worker,1,rock harlequin
+2017,S4,2,insularis,male,1,yarrow
+2017,S4,2,insularis,male,3,douglas aster
+2017,S4,2,bifarius,male,1,douglas aster
+2017,S4,2,bifarius,male,1,fireweed
+2017,S4,2,flavifrons,worker,1,fireweed

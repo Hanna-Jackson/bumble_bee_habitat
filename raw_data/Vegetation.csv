@@ -1,0 +1,914 @@
+﻿FireYear,Plot,SiteType,Day,Month,Round,Transect,PlantCommonName,PlantLatinName,FlowerCount,PlantCount,OutsideTransectCount
+2009,S1,Fire,11,6,1,East,Utah honeysuckle,Lonicera utahensis,23,1,1
+2009,S1,Fire,11,6,1,East,arctic lupin,Lupinus arcticus ,21,1,1
+2009,S1,Fire,11,6,1,East,pink mountain heather,Phyllodoce empetriformis,248,3,1
+2009,S1,Fire,11,6,1,East,tiny vaccinium ,Vaccinium caespitosum,174,40,1
+2009,S1,Fire,11,6,1,West,Arnica,Arnica sp.,1,1,1
+2009,S1,Fire,11,6,1,West,alpine buttercup,Ranunculus escholtzii,3,3,1
+2009,S1,Fire,11,6,1,West,yellow violet,Viola sempervirens,1,1,1
+2009,S1,Fire,11,6,1,West,tiny vaccinium ,Vaccinium caespitosum,133,32,1
+2009,S1,Fire,12,6,1,North,tiny vaccinium ,Vaccinium caespitosum,28,7,1
+2009,S1,Fire,12,6,1,North,Utah honeysuckle,Lonicera utahensis,400,8,1
+2009,S1,Fire,12,6,1,North,arctic lupin,Lupinus arcticus ,2,1,1
+2009,S1,Fire,12,6,1,South,tiny vaccinium ,Vaccinium caespitosum,258,54,1
+2009,F1,Forest,13,6,1,North,yellow violet,Viola sempervirens,45,33,0
+2009,F1,Forest,13,6,1,North,Utah honeysuckle,Lonicera utahensis,2,1,0
+2009,F1,Forest,13,6,1,East,yellow violet,Viola sempervirens,1,1,0
+2009,F1,Forest,13,6,1,South,pink mountain heather,Phyllodoce empetriformis,6,3,0
+2009,F1,Forest,13,6,1,South,yellow violet,Viola sempervirens,28,28,0
+2009,F1,Forest,13,6,1,West,pink mountain heather,Phyllodoce empetriformis,20,7,0
+2009,F2,Forest,14,6,1,North,white mountain heather,Cassiope mertensiana,368,41,0
+2009,F2,Forest,14,6,1,West,NA,NA,0,0,0
+2009,F2,Forest,14,6,1,South,NA,NA,0,0,0
+2009,F2,Forest,14,6,1,East,NA,NA,0,0,0
+2009,S2,Fire,15,6,1,West,tiny vaccinium ,Vaccinium caespitosum,23,9,6
+2009,S2,Fire,15,6,1,East,Dandelion,Taraxacum officinale,1,1,6
+2009,S2,Fire,15,6,1,East,tiny vaccinium ,Vaccinium caespitosum,16,5,6
+2009,S2,Fire,15,6,1,North,tiny vaccinium ,Vaccinium caespitosum,536,64,6
+2009,S2,Fire,15,6,1,North,arctic lupin,Lupinus arcticus ,1,1,6
+2009,S2,Fire,15,6,1,South,tiny vaccinium ,Vaccinium caespitosum,117,21,6
+2009,S2,Fire,15,6,1,South,Marsh Marigold,Caltha leptosepala,2,2,6
+2009,S3,Fire,15,6,1,East,arctic lupin,Lupinus arcticus ,210,8,2
+2009,S3,Fire,15,6,1,East,alpine buttercup,Ranunculus escholtzii,1,1,2
+2009,S3,Fire,15,6,1,East,Sitka valerian,Valeriana sitchensis,110,14,2
+2009,S3,Fire,15,6,1,East,tiny vaccinium ,Vaccinium caespitosum,4,3,2
+2009,S3,Fire,15,6,1,South,arctic lupin,Lupinus arcticus ,78,2,2
+2009,S3,Fire,15,6,1,South,Sitka valerian,Valeriana sitchensis,11,1,2
+2009,S3,Fire,15,6,1,South,Diverse leaf cinquefoil,Potentilla diversifolia,14,1,2
+2009,S3,Fire,15,6,1,South,tiny vaccinium ,Vaccinium caespitosum,196,36,2
+2009,S3,Fire,15,6,1,South,Racemose pussytoes,Antennaria racemosa,461,81,2
+2009,S3,Fire,15,6,1,South,arnica,Arnica sp.,6,6,2
+2009,S3,Fire,15,6,1,West,arctic lupin,Lupinus arcticus ,73,4,2
+2009,S3,Fire,15,6,1,West,Sitka valerian,Valeriana sitchensis,136,23,2
+2009,S3,Fire,15,6,1,West,Purple violet,Viola adunca,8,8,2
+2009,S3,Fire,15,6,1,West,tiny vaccinium ,Vaccinium caespitosum,53,13,2
+2009,S3,Fire,15,6,1,West,Racemose pussytoes,Antennaria racemosa,328,74,2
+2009,S3,Fire,15,6,1,North,tiny vaccinium ,Vaccinium caespitosum,11,5,2
+2009,S3,Fire,15,6,1,North,Purple violet,Viola adunca,3,3,2
+2009,S3,Fire,15,6,1,North,Racemose pussytoes,Antennaria racemosa,184,74,2
+2010,F1,Forest,19,6,1,North,pink mountain heather,Phyllodoce empetriformis,7,3,0
+2010,F1,Forest,19,6,1,South,Larger vaccinium,Vaccinium membranosum,34,19,0
+2010,F1,Forest,19,6,1,South,pink mountain heather,Phyllodoce empetriformis,41,12,0
+2010,F1,Forest,19,6,1,East,pink mountain heather,Phyllodoce empetriformis,6,1,0
+2010,F1,Forest,19,6,1,East,Larger vaccinium,Vaccinium membranosum,8,6,0
+2010,F1,Forest,19,6,1,East,white mountain heather,Cassiope mertensiana,4,1,0
+2010,F1,Forest,19,6,1,West,pink mountain heather,Phyllodoce empetriformis,50,3,0
+2010,F1,Forest,19,6,1,West,white mountain heather,Cassiope mertensiana,780,37,0
+2010,F2,Forest,19,6,1,East,tiny vaccinium ,Vaccinium caespitosum,72,34,0
+2010,F2,Forest,19,6,1,East,Larger vaccinium,Vaccinium membranosum,17,11,0
+2010,F2,Forest,19,6,1,East,pink mountain heather,Phyllodoce empetriformis,78,14,0
+2010,F2,Forest,19,6,1,East,Bog laurel,Kalmia microphylla,6,4,0
+2010,F2,Forest,19,6,1,South,Larger vaccinium,Vaccinium membranosum,7,3,0
+2010,F2,Forest,19,6,1,South,Bog laurel,Kalmia microphylla,38,23,0
+2010,F2,Forest,19,6,1,South,arctic lupin,Lupinus arcticus ,3,1,0
+2010,F2,Forest,19,6,1,South,tiny vaccinium ,Vaccinium caespitosum,266,67,0
+2010,F2,Forest,19,6,1,South,pink mountain heather,Phyllodoce empetriformis,30,13,0
+2010,F2,Forest,19,6,1,West,arnica,Arnica sp.,1,1,0
+2010,F2,Forest,19,6,1,West,arctic lupin,Lupinus arcticus ,30,1,0
+2010,F2,Forest,19,6,1,West,tiny vaccinium ,Vaccinium caespitosum,501,81,0
+2010,F2,Forest,19,6,1,North,pink mountain heather,Phyllodoce empetriformis,25,9,0
+2010,F2,Forest,19,6,1,North,Bog laurel,Kalmia microphylla,62,31,0
+2010,F2,Forest,19,6,1,North,white mountain heather,Cassiope mertensiana,1,1,0
+2010,F2,Forest,19,6,1,North,yellow violet,Viola sempervirens,14,14,0
+2010,F2,Forest,19,6,1,North,sibbaldia,Sibbaldia procumbens,87,29,0
+2010,F2,Forest,19,6,1,North,tiny vaccinium ,Vaccinium caespitosum,16,9,0
+2010,F2,Forest,19,6,1,North,alpine buttercup,Ranunculus escholtzii,26,26,0
+2018,F1,Forest,20,6,1,South,tiny vaccinium ,Vaccinium caespitosum,168,63,1
+2018,F1,Forest,20,6,1,South,Larger vaccinium,Vaccinium membranosum,282,86,1
+2018,F1,Forest,20,6,1,South,Bearberry,Arctostaphylos uva-ursi,33,13,1
+2018,F1,Forest,20,6,1,North,tiny vaccinium ,Vaccinium caespitosum,29,10,1
+2018,F1,Forest,20,6,1,North,Larger vaccinium,Vaccinium membranosum,254,116,1
+2018,F1,Forest,20,6,1,North,Bearberry,Arctostaphylos uva-ursi,5,2,1
+2018,F1,Forest,20,6,1,East,Bearberry,Arctostaphylos uva-ursi,19,7,1
+2018,F1,Forest,20,6,1,East,tiny vaccinium ,Vaccinium caespitosum,12,7,1
+2018,F1,Forest,20,6,1,East,Larger vaccinium,Vaccinium membranosum,174,62,1
+2018,F1,Forest,20,6,1,West,Larger vaccinium,Vaccinium membranosum,21,15,1
+2018,F1,Forest,20,6,1,West,Bearberry,Arctostaphylos uva-ursi,15,6,1
+2018,F1,Forest,20,6,1,West,tiny vaccinium ,Vaccinium caespitosum,67,26,1
+2018,S1,Fire,20,6,1,North,NA,NA,0,0,0
+2018,S1,Fire,20,6,1,East,NA,NA,0,0,0
+2018,S1,Fire,20,6,1,West,NA,NA,0,0,0
+2018,S1,Fire,20,6,1,South,White flowered Rhododendron,Rhododendron albiflorum,2,2,0
+2010,S2,Fire,21,6,1,North,Arnica,Arnica sp.,24,24,4
+2010,S2,Fire,21,6,1,North,Bunchberry,Cornus canadensis,100,100,4
+2010,S2,Fire,21,6,1,North,Diverse leaf cinquefoil,Potentilla diversifolia,27,2,4
+2010,S2,Fire,21,6,1,North,Sitka valerian,Valeriana sitchensis,67,4,4
+2010,S2,Fire,21,6,1,North,arctic lupin,Lupinus arcticus ,1200,76,4
+2010,S2,Fire,21,6,1,North,tiny vaccinium ,Vaccinium caespitosum,272,32,4
+2010,S2,Fire,21,6,1,West,arctic lupin,Lupinus arcticus ,114,15,4
+2010,S2,Fire,21,6,1,West,tiny vaccinium ,Vaccinium caespitosum,841,135,4
+2010,S2,Fire,21,6,1,West,Arnica,Arnica sp.,11,11,4
+2010,S2,Fire,21,6,1,West,Larger vaccinium,Vaccinium membranosum,7,4,4
+2010,S2,Fire,21,6,1,West,Bunchberry,Cornus canadensis,151,151,4
+2010,S2,Fire,21,6,1,East,arctic lupin,Lupinus arcticus ,160,11,4
+2010,S2,Fire,21,6,1,East,Diverse leaf cinquefoil,Potentilla diversifolia,158,23,4
+2010,S2,Fire,21,6,1,East,alpine buttercup,Ranunculus escholtzii,1,1,4
+2010,S2,Fire,21,6,1,East,Purple violet,Viola adunca,3,3,4
+2010,S2,Fire,21,6,1,East,Alpine American Speedwell,Veronica wormskjoldii,2,1,4
+2010,S2,Fire,21,6,1,East,Dandelion,Taraxacum officinale,1,1,4
+2010,S2,Fire,21,6,1,East,arnica,Arnica sp.,21,21,4
+2010,S2,Fire,21,6,1,East,Sitka valerian,Valeriana sitchensis,139,7,4
+2010,S2,Fire,21,6,1,South,arnica,Arnica sp.,9,9,4
+2010,S2,Fire,21,6,1,South,Larger vaccinium,Vaccinium membranosum,34,6,4
+2010,S2,Fire,21,6,1,South,Sitka valerian,Valeriana sitchensis,315,9,4
+2010,S1,Fire,21,6,1,East,arnica,Arnica sp.,27,27,4
+2010,S1,Fire,21,6,1,East,tiny vaccinium ,Vaccinium caespitosum,2,2,4
+2010,S1,Fire,21,6,1,East,White Tiny Willowherb,Epilobium minutum,3,1,4
+2010,S1,Fire,21,6,1,North,Sitka valerian,Valeriana sitchensis,355,16,4
+2010,S1,Fire,21,6,1,North,tiny vaccinium ,Vaccinium caespitosum,280,60,4
+2010,S1,Fire,21,6,1,North,Larger vaccinium,Vaccinium membranosum,14,6,4
+2010,S1,Fire,21,6,1,North,arnica,Arnica sp.,19,19,4
+2010,S1,Fire,21,6,1,North,arctic lupin,Lupinus arcticus ,368,22,4
+2010,S1,Fire,21,6,1,West,tiny vaccinium ,Vaccinium caespitosum,89,23,4
+2010,S1,Fire,21,6,1,West,Racemose pussytoes,Antennaria racemosa,224,41,4
+2010,S1,Fire,21,6,1,West,arnica,Arnica sp.,3,3,4
+2010,S1,Fire,21,6,1,West,alpine hawkweed,Hieracium umbellatum,2,1,4
+2010,S1,Fire,21,6,1,West,arctic lupin,Lupinus arcticus ,120,9,4
+2010,S1,Fire,21,6,1,West,Small flowered penstemon,Penstemon procerus,6,3,4
+2010,S1,Fire,21,6,1,West,Little willowherb,Epilobium minutum,1,1,4
+2010,S1,Fire,21,6,1,West,Sitka valerian,Valeriana sitchensis,22,1,4
+2010,S1,Fire,21,6,1,South,Sitka valerian,Valeriana sitchensis,312,26,4
+2010,S1,Fire,21,6,1,South,Small flowered penstemon,Penstemon procerus,131,34,4
+2010,S1,Fire,21,6,1,South,Diverse leaf cinquefoil,Potentilla diversifolia,2,2,4
+2010,S1,Fire,21,6,1,South,pink mountain heather,Phyllodoce empetriformis,29,4,4
+2010,S1,Fire,21,6,1,South,Bracted lousewort,Pedicularis bracteosa,5,5,4
+2010,S1,Fire,21,6,1,South,tiny vaccinium ,Vaccinium caespitosum,409,106,4
+2010,S1,Fire,21,6,1,South,arnica,Arnica sp.,15,15,4
+2010,S1,Fire,21,6,1,South,Larger vaccinium,Vaccinium membranosum,36,14,4
+2017,F1,Forest,1,7,1,South,Bunchberry,Cornus canadensis,14,14,0
+2017,F1,Forest,1,7,1,South,Rose,Rosa sp.,1,1,0
+2017,F1,Forest,1,7,1,South,arnica,Arnica sp.,1,1,0
+2017,F1,Forest,1,7,1,South,Twinflower,Linnea borealis,8,3,0
+2017,F1,Forest,1,7,1,East,Bunchberry,Cornus canadensis,300,300,0
+2017,F1,Forest,1,7,1,East,rose,Rosa sp.,19,12,0
+2017,F1,Forest,1,7,1,East,Twinflower,Linnea borealis,8,5,0
+2017,F1,Forest,1,7,1,East,paintbrush,Castilleja miniata,6,2,0
+2017,F1,Forest,1,7,1,East,One-flowered wintergreen,Pyrola uniflora ,3,3,0
+2017,F1,Forest,1,7,1,East,Green pyrola,Pyrola chlorantha,6,6,0
+2017,F1,Forest,1,7,1,East,Antenna saxifrage,Mitella spp.,5,2,0
+2017,F1,Forest,1,7,1,North,Bunchberry,Cornus canadensis,411,411,0
+2017,F1,Forest,1,7,1,North,Green pyrola,Pyrola chlorantha,27,7,0
+2017,F1,Forest,1,7,1,North,Rose,Rosa sp.,21,11,0
+2017,F1,Forest,1,7,1,North,Twinflower,Linnea borealis,49,11,0
+2017,F1,Forest,1,7,1,North,Spotted coralroot,Corallorhiza maculata,165,20,0
+2017,F1,Forest,1,7,1,West,Bunchberry,Cornus canadensis,158,158,0
+2017,F1,Forest,1,7,1,West,Twinflower,Linnea borealis,46,15,0
+2017,F1,Forest,1,7,1,West,paintbrush,Castilleja miniata,18,7,0
+2017,F2,Forest,1,7,1,North,Bunchberry,Cornus canadensis,3,3,0
+2017,F2,Forest,1,7,1,North,rose,Rosa sp.,1,1,0
+2017,F2,Forest,1,7,1,West,rose,Rosa sp.,1,1,0
+2017,F2,Forest,1,7,1,West,Bunchberry,Cornus canadensis,19,19,0
+2017,F2,Forest,1,7,1,West,Twinflower,Linnea borealis,2,2,0
+2017,F2,Forest,1,7,1,East,Bunchberry,Cornus canadensis,77,77,0
+2017,F2,Forest,1,7,1,East,Green pyrola,Pyrola chlorantha,3,1,0
+2017,F2,Forest,1,7,1,East,Rose,Rosa sp.,4,3,0
+2017,F2,Forest,1,7,1,East,Twinflower,Linnea borealis,11,4,0
+2017,F2,Forest,1,7,1,South,Twinflower,Linnea borealis,14,9,0
+2017,F2,Forest,1,7,1,South,Rose,Rosa sp.,8,5,0
+2017,F2,Forest,1,7,1,South,Bunchberry,Cornus canadensis,5,5,0
+2017,S1,Fire,1,7,1,East,Fireweed,Chamaenerion angustifolium,32,14,2
+2017,S1,Fire,1,7,1,East,Spreading dogbane,Apocynum androsaemifolium,1228,111,2
+2017,S1,Fire,1,7,1,East,paintbrush,Castilleja miniata,9,3,2
+2017,S1,Fire,1,7,1,East,Snowberry,Symphoricarpos albus,77,7,2
+2017,S1,Fire,1,7,1,South,White Spirea,Spiraea betulifolia,5080,75,2
+2017,S1,Fire,1,7,1,South,Spreading dogbane,Apocynum androsaemifolium,4280,55,2
+2017,S1,Fire,1,7,1,South,Thimbleberry,Rubus parviflorus,16,4,2
+2017,S1,Fire,1,7,1,South,Fireweed,Chamaenerion angustifolium,18,6,2
+2017,S1,Fire,1,7,1,South,Snowberry,Symphoricarpos albus,43,1,2
+2017,S1,Fire,1,7,1,West,Thimbleberry,Rubus parviflorus,6,3,2
+2017,S1,Fire,1,7,1,West,Fireweed,Chamaenerion angustifolium,93,24,2
+2017,S1,Fire,1,7,1,West,Wild strawberry,Fragaria virginiana,2,1,2
+2017,S1,Fire,1,7,1,West,Arnica,Arnica sp.,124,124,2
+2017,S1,Fire,1,7,1,West,rose,Rosa sp.,7,5,2
+2017,S1,Fire,1,7,1,West,Yarrow,Achillea millefolium,422,3,2
+2017,S1,Fire,1,7,1,West,Spreading dogbane,Apocynum androsaemifolium,1810,20,2
+2017,S1,Fire,1,7,1,North,Spreading dogbane,Apocynum androsaemifolium,1088,79,2
+2017,S1,Fire,1,7,1,North,Fireweed,Chamaenerion angustifolium,28,14,2
+2017,S1,Fire,1,7,1,North,Thimbleberry,Rubus parviflorus,20,6,2
+2017,S1,Fire,1,7,1,North,Rose,Rosa sp.,25,9,2
+2017,S1,Fire,1,7,1,North,Yarrow,Achillea millefolium,28,1,2
+2017,S1,Fire,1,7,1,North,Snowberry,Symphoricarpos albus,23,6,2
+2017,S1,Fire,1,7,1,North,Slender-fruited willowherb,Epilobium leptocarpum,46,27,2
+2017,S1,Fire,1,7,1,North,Long capsule arabidopsis,Arabidopsis lyrata,48,11,2
+2017,S2,Fire,2,7,1,North,arnica,Arnica sp.,34,34,0
+2017,S2,Fire,2,7,1,North,Red Columbine,Aquilegia formosa,4,2,0
+2017,S2,Fire,2,7,1,North,White Spirea,Spiraea betulifolia,10610,115,0
+2017,S2,Fire,2,7,1,East,Arnica,Arnica sp.,6,1,0
+2017,S2,Fire,2,7,1,East,White Spirea,Spiraea betulifolia,9365,192,0
+2017,S2,Fire,2,7,1,South,White Spirea,Spiraea betulifolia,3320,52,0
+2017,S2,Fire,2,7,1,West,White Spirea,Spiraea betulifolia,13705,231,0
+2017,S2,Fire,2,7,1,West,Arnica,Arnica sp.,3,3,0
+2017,S2,Fire,2,7,1,West,Yarrow ,Achillea millefolium,1560,18,0
+2017,S3,Fire,2,7,1,North,White Spirea,Spiraea betulifolia,870,78,2
+2017,S3,Fire,2,7,1,North,Fireweed,Chamaenerion angustifolium,27,7,2
+2017,S3,Fire,2,7,1,South,White Spirea,Spiraea betulifolia,3950,114,2
+2017,S3,Fire,2,7,1,South,Spreading dogbane,Apocynum androsaemifolium,263,80,2
+2017,S3,Fire,2,7,1,South,White Tiny Willowherb,Epilobium minutum,7,2,2
+2017,S3,Fire,2,7,1,West,White Spirea,Spiraea betulifolia,390,22,2
+2017,S3,Fire,2,7,1,West,Spreading dogbane,Apocynum androsaemifolium,1580,17,2
+2017,S3,Fire,2,7,1,West,Yarrow,Achillea millefolium,320,5,2
+2017,S3,Fire,2,7,1,West,Fireweed,Chamaenerion angustifolium,9,3,2
+2017,S3,Fire,2,7,1,West,White Tiny Willowherb,Epilobium minutum,111,30,2
+2017,S3,Fire,2,7,1,East,Fireweed,Chamaenerion angustifolium,17,3,2
+2017,S3,Fire,2,7,1,East,White Spirea,Spiraea betulifolia,5470,158,2
+2017,F4,Forest,2,7,1,South,Wild strawberry,Fragaria virginiana,1,1,1
+2017,F4,Forest,2,7,1,West,Wild strawberry,Fragaria virginiana,3,3,1
+2017,F4,Forest,2,7,1,West,Rose,Rosa sp.,3,3,1
+2017,F4,Forest,2,7,1,West,Twinflower,Linnea borealis,40,24,1
+2017,F4,Forest,2,7,1,North,Snowberry,Symphoricarpos albus,114,40,1
+2017,F4,Forest,2,7,1,North,Rose,Rosa sp.,1,1,1
+2017,F4,Forest,2,7,1,East,NA,NA,0,0,1
+2017,F3,Forest,3,7,1,East,Twinflower,Linnea borealis,133,21,0
+2017,F3,Forest,3,7,1,East,arnica,Arnica sp.,23,23,0
+2017,F3,Forest,3,7,1,East,Bunchberry,Cornus canadensis,456,456,0
+2017,F3,Forest,3,7,1,East,Green pyrola,Pyrola chlorantha,13,2,0
+2017,F3,Forest,3,7,1,East,Pink pyrola,Pyrola asarifolia,10,1,0
+2017,F3,Forest,3,7,1,East,paintbrush,Castilleja miniata,24,7,0
+2017,F3,Forest,3,7,1,East,Rose,Rosa sp.,4,4,0
+2017,F3,Forest,3,7,1,South,Bunchberry,Cornus canadensis,188,188,0
+2017,F3,Forest,3,7,1,South,arnica,Arnica sp.,1,1,0
+2017,F3,Forest,3,7,1,South,Rose,Rosa sp.,4,3,0
+2017,F3,Forest,3,7,1,South,Wild strawberry,Fragaria virginiana,3,2,0
+2017,F3,Forest,3,7,1,South,Green-flowered pyrola,Pyrola chlorantha,4,1,0
+2017,F3,Forest,3,7,1,South,paintbrush,Castilleja miniata,27,6,0
+2017,F3,Forest,3,7,1,South,Spotted coralroot,Corallorhiza maculata,317,105,0
+2017,F3,Forest,3,7,1,South,Twinflower,Linnea borealis,187,109,0
+2017,F3,Forest,3,7,1,West,Twinflower,Linnea borealis,534,57,0
+2017,F3,Forest,3,7,1,West,Bunchberry,Cornus canadensis,343,343,0
+2017,F3,Forest,3,7,1,West,Green pyrola,Pyrola chlorantha,10,2,0
+2017,F3,Forest,3,7,1,West,paintbrush,Castilleja miniata,34,8,0
+2017,F3,Forest,3,7,1,West,Rose,Rosa sp.,2,2,0
+2017,F3,Forest,3,7,1,North,Twinflower,Linnea borealis,528,381,0
+2017,F3,Forest,3,7,1,North,Green pyrola,Pyrola chlorantha,7,2,0
+2017,F3,Forest,3,7,1,North,Bunchberry,Cornus canadensis,85,85,0
+2017,F3,Forest,3,7,1,North,Rose,Rosa sp.,2,2,0
+2017,S4,Fire,3,7,1,North,White Spirea,Spiraea betulifolia,3995,85,1
+2017,S4,Fire,3,7,1,North,Bicknell's geranium,Geranium bicknellii,9,1,1
+2017,S4,Fire,3,7,1,North,Scrambled Eggs,Cordyalis aurea,13,1,1
+2017,S4,Fire,3,7,1,North,Arnica,Arnica sp.,21,21,1
+2017,S4,Fire,3,7,1,North,Rock Harlequin,Capnoides sempervirens,112,22,1
+2017,S4,Fire,3,7,1,North,Fireweed,Chamaenerion angustifolium,13,7,1
+2017,S4,Fire,3,7,1,West,White Spirea,Spiraea betulifolia,13990,172,1
+2017,S4,Fire,3,7,1,West,Arnica,Arnica sp.,102,102,1
+2017,S4,Fire,3,7,1,West,Fireweed,Chamaenerion angustifolium,12,6,1
+2017,S4,Fire,3,7,1,West,Bunchberry,Cornus canadensis,2,2,1
+2017,S4,Fire,3,7,1,West,Rose,Rosa sp.,1,1,1
+2017,S4,Fire,3,7,1,West,Rock Harlequin,Capnoides sempervirens,74,1,1
+2017,S4,Fire,3,7,1,South,White Spirea,Spiraea betulifolia,480,8,1
+2017,S4,Fire,3,7,1,South,Arnica,Arnica sp.,62,62,1
+2017,S4,Fire,3,7,1,South,Fireweed,Chamaenerion angustifolium,12,3,1
+2017,S4,Fire,3,7,1,South,Rose,Rosa sp.,4,3,1
+2017,S4,Fire,3,7,1,South,Thimbleberry,Rubus parviflorus,10,6,1
+2017,S4,Fire,3,7,1,East,Thimbleberry,Rubus parviflorus,9,5,1
+2017,S4,Fire,3,7,1,East,Arnica,Arnica sp.,11,11,1
+2017,S4,Fire,3,7,1,East,Rose,Rosa sp.,5,3,1
+2017,S4,Fire,3,7,1,East,White Spirea,Spiraea betulifolia,5445,163,1
+2017,S4,Fire,3,7,1,East,Fireweed,Chamaenerion angustifolium,5,1,1
+2010,F4,Forest,7,7,1,North,Yellow Mountain Heather,Phyllodoce glanduliflora,5,2,0
+2010,F4,Forest,7,7,1,North,White flowered Rhododendron,Rhododendron albiflorum,69,14,0
+2010,F4,Forest,7,7,1,East,Arnica,Arnica sp.,1,1,0
+2010,F4,Forest,7,7,1,East,pink mountain heather,Phyllodoce empetriformis,2,1,0
+2010,F4,Forest,7,7,1,East,Bunchberry,Cornus canadensis,66,66,0
+2010,F4,Forest,7,7,1,East,Twinflower,Linnea borealis,2,2,0
+2010,F4,Forest,7,7,1,West,Bunchberry,Cornus canadensis,52,52,0
+2010,F4,Forest,7,7,1,South,Bunchberry,Cornus canadensis,14,14,0
+2010,F4,Forest,7,7,1,South,arctic lupin,Lupinus arcticus ,3,1,0
+2010,F4,Forest,7,7,1,South,Twinflower,Linnea borealis,1,1,0
+2010,F3,Forest,7,7,1,North,Sitka valerian,Valeriana sitchensis,55,3,1
+2010,F3,Forest,7,7,1,North,Arnica,Arnica sp.,3,3,1
+2010,F3,Forest,7,7,1,North,Racemose pussytoes,Antennaria racemosa,1054,307,1
+2010,F3,Forest,7,7,1,North,arctic lupin,Lupinus arcticus ,83,6,1
+2010,F3,Forest,7,7,1,North,Bunchberry,Cornus canadensis,61,61,1
+2010,F3,Forest,7,7,1,East,arnica,Arnica sp.,7,7,1
+2010,F3,Forest,7,7,1,East,Bunchberry,Cornus canadensis,46,46,1
+2010,F3,Forest,7,7,1,East,Racemose pussytoes,Antennaria racemosa,139,31,1
+2010,F3,Forest,7,7,1,East,Bracted lousewort,Pedicularis bracteosa,7,1,1
+2010,F3,Forest,7,7,1,South,Racemose pussytoes,Antennaria racemosa,10,2,1
+2010,F3,Forest,7,7,1,South,Bunchberry,Cornus canadensis,88,88,1
+2010,F3,Forest,7,7,1,South,arnica,Arnica sp.,11,11,1
+2010,F3,Forest,7,7,1,West,arnica,Arnica sp.,28,28,1
+2010,F3,Forest,7,7,1,West,Sitka valerian,Valeriana sitchensis,32,3,1
+2010,F3,Forest,7,7,1,West,Bracted lousewort,Pedicularis bracteosa,20,5,1
+2010,F3,Forest,7,7,1,West,Bunchberry,Cornus canadensis,125,125,1
+2010,F3,Forest,7,7,1,West,arctic lupin,Lupinus arcticus ,1362,104,1
+2010,S3,Fire,7,7,1,North,arctic lupin,Lupinus arcticus ,280,25,4
+2010,S3,Fire,7,7,1,North,Yarrow,Achillea millefolium,19,1,4
+2010,S3,Fire,7,7,1,North,Bunchberry,Cornus canadensis,111,111,4
+2010,S3,Fire,7,7,1,North,Arnica,Arnica sp.,1,1,4
+2010,S3,Fire,7,7,1,North,Sitka valerian,Valeriana sitchensis,36,1,4
+2010,S3,Fire,7,7,1,South,White rein orchid,Platanthera dilatata,24,1,4
+2010,S3,Fire,7,7,1,South,arctic lupin,Lupinus arcticus ,1123,127,4
+2010,S3,Fire,7,7,1,South,Yarrow,Achillea millefolium,52,3,4
+2010,S3,Fire,7,7,1,South,Bunchberry,Cornus canadensis,14,14,4
+2010,S3,Fire,7,7,1,South,arnica,Arnica sp.,15,15,4
+2010,S3,Fire,7,7,1,South,Diverse leaf cinquefoil,Potentilla diversifolia,2,2,4
+2010,S3,Fire,7,7,1,East,arnica,Arnica sp.,4,4,4
+2010,S3,Fire,7,7,1,East,Bunchberry,Cornus canadensis,62,62,4
+2010,S3,Fire,7,7,1,East,Twinflower,Linnea borealis,93,11,4
+2010,S3,Fire,7,7,1,East,Yarrow,Achillea millefolium,380,27,4
+2010,S3,Fire,7,7,1,East,arctic lupin,Lupinus arcticus ,665,54,4
+2010,S3,Fire,7,7,1,West,Sitka valerian,Valeriana sitchensis,262,17,4
+2010,S3,Fire,7,7,1,West,Yarrow,Achillea millefolium,31,4,4
+2010,S3,Fire,7,7,1,West,Bunchberry,Cornus canadensis,13,13,4
+2010,S3,Fire,7,7,1,West,arnica,Arnica sp.,21,21,4
+2010,S3,Fire,7,7,1,West,arctic lupin,Lupinus arcticus ,119,24,4
+2009,F3,Forest,8,7,1,North,pink mountain heather,Phyllodoce empetriformis,306,93,2
+2009,F3,Forest,8,7,1,North,Sitka valerian,Valeriana sitchensis,225,37,2
+2009,F3,Forest,8,7,1,North,arctic lupin,Lupinus arcticus ,215,17,2
+2009,F3,Forest,8,7,1,North,Marsh Marigold,Caltha leptosepala,1,1,2
+2009,F3,Forest,8,7,1,West,arctic lupin,Lupinus arcticus ,101,9,2
+2009,F3,Forest,8,7,1,West,Sitka valerian,Valeriana sitchensis,338,38,2
+2009,F3,Forest,8,7,1,West,pink mountain heather,Phyllodoce empetriformis,91,23,2
+2009,F3,Forest,8,7,1,West,Bracted lousewort,Pedicularis bracteosa,4,2,2
+2009,F3,Forest,8,7,1,South,pink mountain heather,Phyllodoce empetriformis,503,114,2
+2009,F3,Forest,8,7,1,South,arctic lupin,Lupinus arcticus ,143,15,2
+2009,F3,Forest,8,7,1,South,Sitka valerian,Valeriana sitchensis,122,13,2
+2009,F3,Forest,8,7,1,South,alpine buttercup,Ranunculus escholtzii,7,7,2
+2009,F3,Forest,8,7,1,South,Purple violet,Viola adunca,2,2,2
+2009,F3,Forest,8,7,1,South,arnica,Arnica sp.,3,3,2
+2009,F3,Forest,8,7,1,South,Alpine American Speedwell,Veronica wormskjoldii,4,2,2
+2009,F3,Forest,8,7,1,East,Sitka valerian,Valeriana sitchensis,250,43,2
+2009,F3,Forest,8,7,1,East,pink mountain heather,Phyllodoce empetriformis,105,7,2
+2009,F3,Forest,8,7,1,East,buttercup,Ranunculus repens,76,37,2
+2009,F3,Forest,8,7,1,East,arctic lupin,Lupinus arcticus ,1193,80,2
+2009,F4,Forest,8,7,1,East,arctic lupin,Lupinus arcticus ,13,1,0
+2009,F4,Forest,8,7,1,East,pink mountain heather,Phyllodoce empetriformis,147,8,0
+2009,F4,Forest,8,7,1,South,tiny vaccinium ,Vaccinium caespitosum,10,5,0
+2009,F4,Forest,8,7,1,South,Sitka valerian,Valeriana sitchensis,188,15,0
+2009,F4,Forest,8,7,1,South,arctic lupin,Lupinus arcticus ,584,34,0
+2009,F4,Forest,8,7,1,South,Marsh Marigold,Caltha leptosepala,1,1,0
+2009,F4,Forest,8,7,1,South,wooly hawkweed,Hieracium triste,3,3,0
+2009,F4,Forest,8,7,1,South,Small flowered penstemon,Penstemon procerus,8,1,0
+2009,F4,Forest,8,7,1,South,buttercup,Ranunculus repens,7,7,0
+2009,F4,Forest,8,7,1,South,pink mountain heather,Phyllodoce empetriformis,206,14,0
+2009,F4,Forest,8,7,1,South,white mountain heather,Cassiope mertensiana,505,10,0
+2009,F4,Forest,8,7,1,South,Bracted lousewort,Pedicularis bracteosa,7,1,0
+2009,F4,Forest,8,7,1,North,wooly hawkweed,Hieracium triste,2,2,0
+2009,F4,Forest,8,7,1,North,Diverse leaf cinquefoil,Potentilla diversifolia,34,32,0
+2009,F4,Forest,8,7,1,North,Alpine American Speedwell,Veronica wormskjoldii,41,17,0
+2009,F4,Forest,8,7,1,North,tiny vaccinium ,Vaccinium caespitosum,287,90,0
+2009,F4,Forest,8,7,1,North,pink mountain heather,Phyllodoce empetriformis,179,106,0
+2009,F4,Forest,8,7,1,North,white mountain heather,Cassiope mertensiana,362,176,0
+2009,F4,Forest,8,7,1,North,paintbrush,Castilleja miniata,1,1,0
+2009,F4,Forest,8,7,1,North,Bracted lousewort,Pedicularis bracteosa,8,3,0
+2009,F4,Forest,8,7,1,North,Sitka valerian,Valeriana sitchensis,530,67,0
+2009,F4,Forest,8,7,1,North,arctic lupin,Lupinus arcticus ,995,70,0
+2009,F4,Forest,8,7,1,West,Sitka valerian,Valeriana sitchensis,54,8,0
+2009,F4,Forest,8,7,1,West,pink mountain heather,Phyllodoce empetriformis,55,11,0
+2009,F4,Forest,8,7,1,West,white mountain heather,Cassiope mertensiana,53,1,0
+2009,F4,Forest,8,7,1,West,wooly hawkweed,Hieracium triste,2,2,0
+2009,F4,Forest,8,7,1,West,Bracted lousewort,Pedicularis bracteosa,73,22,0
+2009,F4,Forest,8,7,1,West,arctic lupin,Lupinus arcticus ,662,37,0
+2009,F4,Forest,8,7,1,West,tiny vaccinium ,Vaccinium caespitosum,150,46,0
+2009,F4,Forest,8,7,1,West,Diverse leaf cinquefoil,Potentilla diversifolia,5,4,0
+2009,F4,Forest,8,7,1,West,Alpine American Speedwell,Veronica wormskjoldii,10,6,0
+2009,S4,Fire,9,7,1,South,Yarrow,Achillea millefolium,509,29,7
+2009,S4,Fire,9,7,1,South,Twinflower,Linnea borealis,15,9,7
+2009,S4,Fire,9,7,1,South,small white hawkweed,Hieracium albiflorum,18,13,7
+2009,S4,Fire,9,7,1,East,small white hawkweed,Hieracium albiflorum,11,6,7
+2009,S4,Fire,9,7,1,East,arctic lupin,Lupinus arcticus ,15,7,7
+2009,S4,Fire,9,7,1,East,Racemose pussytoes,Antennaria racemosa,9,2,7
+2009,S4,Fire,9,7,1,East,Twinflower,Linnea borealis,11,6,7
+2009,S4,Fire,9,7,1,East,tiny vaccinium ,Vaccinium caespitosum,57,41,7
+2009,S4,Fire,9,7,1,West,arctic lupin,Lupinus arcticus ,172,34,7
+2009,S4,Fire,9,7,1,West,Arnica,Arnica sp.,6,6,7
+2009,S4,Fire,9,7,1,West,small white hawkweed,Hieracium albiflorum,3,2,7
+2009,S4,Fire,9,7,1,West,Bunchberry,Cornus canadensis,33,33,7
+2009,S4,Fire,9,7,1,West,Twinflower,Linnea borealis,11,3,7
+2009,S4,Fire,9,7,1,West,Sitka valerian,Valeriana sitchensis,302,20,7
+2009,S4,Fire,9,7,1,West,Bracted lousewort,Pedicularis bracteosa,38,8,7
+2009,S4,Fire,9,7,1,West,Douglas Aster,Aster subspicatus,45,35,7
+2009,S4,Fire,9,7,1,West,tiny vaccinium ,Vaccinium caespitosum,1,1,7
+2009,S4,Fire,9,7,1,North,Pearly Everlasting,Anaphilis margaritacea,1,1,7
+2009,S4,Fire,9,7,1,North,Racemose pussytoes,Antennaria racemosa,448,91,7
+2009,S4,Fire,9,7,1,North,arctic lupin,Lupinus arcticus ,63,15,7
+2009,S4,Fire,9,7,1,North,white hawkweed,Hieracium albiflorum,90,51,7
+2009,S4,Fire,9,7,1,North,Alpine yellow Hawkweed,Hieracium umbellatum,2,2,7
+2010,S4,Fire,9,7,1,West,Bunchberry,Cornus canadensis,54,54,3
+2010,S4,Fire,9,7,1,West,Arnica,Arnica sp.,15,15,3
+2010,S4,Fire,9,7,1,West,Twinflower,Linnea borealis,574,337,3
+2010,S4,Fire,9,7,1,West,White flowered Rhododendron,Rhododendron albiflorum,257,8,3
+2010,S4,Fire,9,7,1,West,white hawkweed,Hieracium albiflorum,12,7,3
+2010,S4,Fire,9,7,1,South,Sitka valerian,Valeriana sitchensis,543,41,3
+2010,S4,Fire,9,7,1,South,Arnica,Arnica sp.,81,81,3
+2010,S4,Fire,9,7,1,South,White flowered Rhododendron,Rhododendron albiflorum,360,3,3
+2010,S4,Fire,9,7,1,South,Yarrow,Achillea millefolium,271,9,3
+2010,S4,Fire,9,7,1,South,Douglas Aster,Aster subspicatus,14,7,3
+2010,S4,Fire,9,7,1,South,Sitka burnet,Sanguisorba sitchensis,15,1,3
+2010,S4,Fire,9,7,1,South,Bunchberry,Cornus canadensis,304,304,3
+2010,S4,Fire,9,7,1,South,Twinflower,Linnea borealis,93,6,3
+2010,S4,Fire,9,7,1,South,white hawkweed,Hieracium albiflorum,4,1,3
+2010,S4,Fire,9,7,1,East,Fireweed,Chamaenerion angustifolium,7,2,3
+2010,S4,Fire,9,7,1,East,alpine hawkweed,Hieracium umbellatum,2,1,3
+2010,S4,Fire,9,7,1,East,white hawkweed,Hieracium albiflorum,12,3,3
+2010,S4,Fire,9,7,1,East,Yarrow,Achillea millefolium,42,5,3
+2010,S4,Fire,9,7,1,East,Bunchberry,Cornus canadensis,216,216,3
+2010,S4,Fire,9,7,1,East,arnica,Arnica sp.,113,113,3
+2010,S4,Fire,9,7,1,East,White flowered Rhododendron,Rhododendron albiflorum,336,10,3
+2010,S4,Fire,9,7,1,North,White flowered Rhododendron,Rhododendron albiflorum,1460,22,3
+2010,S4,Fire,9,7,1,North,arnica,Arnica sp.,49,49,3
+2010,S4,Fire,9,7,1,North,Bunchberry,Cornus canadensis,74,74,3
+2010,S4,Fire,9,7,1,North,Wild raspberry,Rubus idaeus,42,3,3
+2010,S4,Fire,9,7,1,North,Twinflower,Linnea borealis,283,3,3
+2010,S4,Fire,9,7,1,North,Fireweed,Chamaenerion angustifolium,2,2,3
+2010,S4,Fire,9,7,1,North,white hawkweed,Hieracium albiflorum,42,22,3
+2009,F1,Forest,20,7,2,South,Sitka valerian,Valeriana sitchensis,421,19,0
+2009,F1,Forest,20,7,2,South,Subalpine daisy,Erigeron peregrinus,1,1,0
+2009,F1,Forest,20,7,2,South,Bracted lousewort,Pedicularis bracteosa,15,2,0
+2009,F1,Forest,20,7,2,South,arctic lupin,Lupinus arcticus ,12,3,0
+2009,F1,Forest,20,7,2,South,arnica,Arnica sp.,50,44,0
+2009,F1,Forest,20,7,2,East,Norwegian mugwort ,Artemisia norvegica,68,4,0
+2009,F1,Forest,20,7,2,East,arctic lupin,Lupinus arcticus ,4,1,0
+2009,F1,Forest,20,7,2,East,Bracted lousewort,Pedicularis bracteosa,1,1,0
+2009,F1,Forest,20,7,2,East,arnica,Arnica sp.,1,1,0
+2009,F1,Forest,20,7,2,East,Northern Golden-rod,Solidago multiradiata,2,2,0
+2009,F1,Forest,20,7,2,East,Yarrow,Achillea millefolium,62,6,0
+2009,F1,Forest,20,7,2,East,Subalpine daisy,Erigeron peregrinus,6,6,0
+2009,F1,Forest,20,7,2,East,Small flowered penstemon,Penstemon procerus,64,13,0
+2009,F1,Forest,20,7,2,East,Sitka valerian,Valeriana sitchensis,2,1,0
+2009,F1,Forest,20,7,2,West,Small flowered penstemon,Penstemon procerus,16,2,0
+2009,F1,Forest,20,7,2,West,Sitka valerian,Valeriana sitchensis,388,20,0
+2009,F1,Forest,20,7,2,West,Racemose pussytoes,Antennaria racemosa,1,1,0
+2009,F1,Forest,20,7,2,West,Arnica,Arnica sp.,34,32,0
+2009,F1,Forest,20,7,2,West,Bracted lousewort,Pedicularis bracteosa,8,1,0
+2009,F1,Forest,20,7,2,West,arctic lupin,Lupinus arcticus ,14,3,0
+2009,F1,Forest,20,7,2,West,Subalpine daisy,Erigeron peregrinus,3,3,0
+2009,F1,Forest,20,7,2,North,Bracted lousewort,Pedicularis bracteosa,38,3,0
+2009,F1,Forest,20,7,2,North,Sitka valerian,Valeriana sitchensis,1252,92,0
+2009,F1,Forest,20,7,2,North,Racemose pussytoes,Antennaria racemosa,2,1,0
+2009,F1,Forest,20,7,2,North,Subalpine daisy,Erigeron peregrinus,9,7,0
+2009,F1,Forest,20,7,2,North,Arnica,Arnica sp.,109,90,0
+2009,S2,Fire,20,7,2,West,Arnica,Arnica sp.,12,9,2
+2009,S2,Fire,20,7,2,West,Arrowleaf Senecio,Senecio triangularis,9,3,2
+2009,S2,Fire,20,7,2,West,white hawkweed,Hieracium albiflorum,6,2,2
+2009,S2,Fire,20,7,2,North,white hawkweed,Hieracium albiflorum,5,4,2
+2009,S2,Fire,20,7,2,North,Orange hawkweed,Agoseris aurantica,1,1,2
+2009,S2,Fire,20,7,2,North,Yarrow,Achillea millefolium,202,21,2
+2009,S2,Fire,20,7,2,North,arctic lupin,Lupinus arcticus ,7,3,2
+2009,S2,Fire,20,7,2,North,Arnica,Arnica sp.,7,7,2
+2009,S2,Fire,20,7,2,South,Bracted lousewort,Pedicularis bracteosa,19,2,2
+2009,S2,Fire,20,7,2,South,Pale agoseris,Agoseris glauca ,1,1,2
+2009,S2,Fire,20,7,2,South,Orange hawkweed,Agoseris aurantica,18,16,2
+2009,S2,Fire,20,7,2,South,Arnica,Arnica sp.,13,10,2
+2009,S2,Fire,20,7,2,South,paintbrush,Castilleja miniata,9,3,2
+2009,S2,Fire,20,7,2,South,Diverse leaf cinquefoil,Potentilla diversifolia,2,1,2
+2009,S2,Fire,20,7,2,South,arctic lupin,Lupinus arcticus ,5,2,2
+2009,S2,Fire,20,7,2,South,Subalpine daisy,Erigeron peregrinus,9,9,2
+2009,S2,Fire,20,7,2,South,Yarrow,Achillea millefolium,475,28,2
+2009,S2,Fire,20,7,2,South,Small flowered penstemon,Penstemon procerus,295,47,2
+2009,S2,Fire,20,7,2,East,Fireweed,Chamaenerion angustifolium,3,3,2
+2009,S2,Fire,20,7,2,East,Orange hawkweed,Agoseris aurantica,12,11,2
+2009,S2,Fire,20,7,2,East,Slender hawkweed,Hieracium gracile,3,1,2
+2009,S2,Fire,20,7,2,East,Yarrow,Achillea millefolium,854,34,2
+2009,S2,Fire,20,7,2,East,white hawkweed,Hieracium albiflorum,6,3,2
+2009,F2,Forest,20,7,2,East,white mountain heather,Cassiope mertensiana,66,5,3
+2009,F2,Forest,20,7,2,East,pink mountain heather,Phyllodoce empetriformis,8,1,3
+2009,F2,Forest,20,7,2,East,Sitka valerian,Valeriana sitchensis,68,4,3
+2009,F2,Forest,20,7,2,East,arctic lupin,Lupinus arcticus ,70,5,3
+2009,F2,Forest,20,7,2,South,arctic lupin,Lupinus arcticus ,40,2,3
+2009,F2,Forest,20,7,2,South,Sitka valerian,Valeriana sitchensis,34,1,3
+2009,F2,Forest,20,7,2,North,white mountain heather,Cassiope mertensiana,628,376,3
+2009,F2,Forest,20,7,2,North,pink mountain heather,Phyllodoce empetriformis,66,20,3
+2009,F2,Forest,20,7,2,North,arctic lupin,Lupinus arcticus ,77,10,3
+2009,F2,Forest,20,7,2,North,Arnica,Arnica sp.,23,23,3
+2009,F2,Forest,20,7,2,North,Sitka valerian,Valeriana sitchensis,300,17,3
+2009,F2,Forest,20,7,2,West,pink mountain heather,Phyllodoce empetriformis,24,5,3
+2009,F2,Forest,20,7,2,West,white mountain heather,Cassiope mertensiana,238,26,3
+2009,F2,Forest,20,7,2,West,Arnica,Arnica sp.,4,4,3
+2009,F2,Forest,20,7,2,West,Slender hawkweed,Hieracium gracile,1,1,3
+2009,F2,Forest,20,7,2,West,arctic lupin,Lupinus arcticus ,27,2,3
+2009,F2,Forest,20,7,2,West,Segmented luetkea,Luetkea pectinata,40,8,3
+2009,F2,Forest,20,7,2,West,Small flowered penstemon,Penstemon procerus,8,1,3
+2009,F2,Forest,20,7,2,West,Sitka valerian,Valeriana sitchensis,37,2,3
+2010,F2,Forest,21,7,2,East,Bracted lousewort,Pedicularis bracteosa,5,1,0
+2010,F2,Forest,21,7,2,East,Subalpine daisy,Erigeron peregrinus,4,1,0
+2010,F2,Forest,21,7,2,East,Arnica,Arnica sp.,9,9,0
+2010,F2,Forest,21,7,2,East,Bunchberry,Cornus canadensis,67,67,0
+2010,F2,Forest,21,7,2,East,Sitka valerian,Valeriana sitchensis,141,9,0
+2010,F2,Forest,21,7,2,South,arctic lupin,Lupinus arcticus ,231,34,0
+2010,F2,Forest,21,7,2,South,Subalpine daisy,Erigeron peregrinus,17,15,0
+2010,F2,Forest,21,7,2,South,Bunchberry,Cornus canadensis,95,95,0
+2010,F2,Forest,21,7,2,South,Bracted lousewort,Pedicularis bracteosa,138,19,0
+2010,F2,Forest,21,7,2,South,sitka burnet,Sanguisorba sitchensis,3,3,0
+2010,F2,Forest,21,7,2,South,Fireweed,Chamaenerion angustifolium,3,1,0
+2010,F2,Forest,21,7,2,South,Sitka valerian,Valeriana sitchensis,325,17,0
+2010,F2,Forest,21,7,2,South,Arnica,Arnica sp.,1,1,0
+2010,F2,Forest,21,7,2,West,arctic lupin,Lupinus arcticus ,62,8,0
+2010,F2,Forest,21,7,2,West,Yarrow,Achillea millefolium,66,5,0
+2010,F2,Forest,21,7,2,West,Subalpine daisy,Erigeron peregrinus,4,2,0
+2010,F2,Forest,21,7,2,West,Twinflower,Linnea borealis,118,77,0
+2010,F2,Forest,21,7,2,West,Bunchberry,Cornus canadensis,85,85,0
+2010,F2,Forest,21,7,2,West,arnica,Arnica sp.,1,1,0
+2010,F2,Forest,21,7,2,North,Sitka valerian,Valeriana sitchensis,400,18,0
+2010,F2,Forest,21,7,2,North,Bunchberry,Cornus canadensis,144,144,0
+2010,F2,Forest,21,7,2,North,Slender hawkweed,Hieracium gracile,1,1,0
+2010,F2,Forest,21,7,2,North,arctic lupin,Lupinus arcticus ,48,4,0
+2010,F2,Forest,21,7,2,North,Subalpine daisy,Erigeron peregrinus,16,13,0
+2010,F2,Forest,21,7,2,North,arnica,Arnica sp.,3,3,0
+2010,F2,Forest,21,7,2,North,Bracted lousewort,Pedicularis bracteosa,357,45,0
+2010,F2,Forest,21,7,2,North,Arrowleaf Senecio,Senecio triangularis,2,1,0
+2010,F2,Forest,21,7,2,North,Small flowered penstemon,Penstemon procerus,16,4,0
+2010,F2,Forest,21,7,2,North,buttercup,Ranunculus repens,1,1,0
+2010,F2,Forest,21,7,2,North,Yarrow,Achillea millefolium,6,1,0
+2010,F2,Forest,21,7,2,North,Alpine American Speedwell,Veronica wormskjoldii,12,5,0
+2009,S1,Fire,21,7,2,North,Subalpine daisy,Erigeron peregrinus,4,3,4
+2009,S1,Fire,21,7,2,North,white hawkweed,Hieracium albiflorum,15,3,4
+2009,S1,Fire,21,7,2,North,Slender hawkweed,Hieracium gracile,3,2,4
+2009,S1,Fire,21,7,2,North,Red Columbine,Aquilegia formosa,3,2,4
+2009,S1,Fire,21,7,2,North,arctic lupin,Lupinus arcticus ,10,1,4
+2009,S1,Fire,21,7,2,North,Bunchberry,Cornus canadensis,4,4,4
+2009,S1,Fire,21,7,2,North,Twinflower,Linnea borealis,261,14,4
+2009,S1,Fire,21,7,2,North,arnica,Arnica sp.,22,10,4
+2009,S1,Fire,21,7,2,North,Racemose pussytoes,Antennaria racemosa,1,1,4
+2009,S1,Fire,21,7,2,North,Yarrow,Achillea millefolium,125,6,4
+2009,S1,Fire,21,7,2,North,Sitka valerian,Valeriana sitchensis,140,14,4
+2009,S1,Fire,21,7,2,West,Twinflower,Linnea borealis,609,352,4
+2009,S1,Fire,21,7,2,West,Yarrow,Achillea millefolium,702,46,4
+2009,S1,Fire,21,7,2,West,Dwarf Fireweed,Chamaenerion latifolium,1,1,4
+2009,S1,Fire,21,7,2,West,sitka burnet,Sanguisorba sitchensis,23,23,4
+2009,S1,Fire,21,7,2,West,Alpine American Speedwell,Veronica wormskjoldii,1,1,4
+2009,S1,Fire,21,7,2,West,Subalpine daisy,Erigeron peregrinus,3,3,4
+2009,S1,Fire,21,7,2,West,Bracted lousewort,Pedicularis bracteosa,18,2,4
+2009,S1,Fire,21,7,2,West,arctic lupin,Lupinus arcticus ,4,1,4
+2009,S1,Fire,21,7,2,West,Sitka valerian,Valeriana sitchensis,154,17,4
+2009,S1,Fire,21,7,2,West,one sided pyrola ,Orthilia secunda,31,4,4
+2009,S1,Fire,21,7,2,West,arnica,Arnica sp.,4,4,4
+2009,S1,Fire,21,7,2,West,Club seed epilobium,Epilobium clavatum,1,1,4
+2009,S1,Fire,21,7,2,West,Norwegian mugwort ,Artemisia norvegica,15,1,4
+2009,S1,Fire,21,7,2,South,Purple violet,Viola adunca,1,1,4
+2009,S1,Fire,21,7,2,South,Subalpine daisy,Erigeron peregrinus,64,32,4
+2009,S1,Fire,21,7,2,South,Red Columbine,Aquilegia formosa,3,3,4
+2009,S1,Fire,21,7,2,South,Yarrow,Achillea millefolium,200,15,4
+2009,S1,Fire,21,7,2,South,arctic lupin,Lupinus arcticus ,27,5,4
+2009,S1,Fire,21,7,2,South,Bunchberry,Cornus canadensis,24,24,4
+2009,S1,Fire,21,7,2,South,Twinflower,Linnea borealis,30,4,4
+2009,S1,Fire,21,7,2,South,sitka burnet,Sanguisorba sitchensis,12,12,4
+2009,S1,Fire,21,7,2,South,Arnica,Arnica sp.,78,67,4
+2009,S1,Fire,21,7,2,South,Norwegian mugwort ,Artemisia norvegica,263,16,4
+2009,S1,Fire,21,7,2,South,Bracted lousewort,Pedicularis bracteosa,206,22,4
+2009,S1,Fire,21,7,2,South,Sitka valerian,Valeriana sitchensis,640,47,4
+2009,S1,Fire,21,7,2,East,Sitka valerian,Valeriana sitchensis,190,10,4
+2009,S1,Fire,21,7,2,East,one flowered wintergreen,Moneses uniflora,38,38,4
+2009,S1,Fire,21,7,2,East,Subalpine daisy,Erigeron peregrinus,4,2,4
+2009,S1,Fire,21,7,2,East,Arnica,Arnica sp.,15,12,4
+2009,S1,Fire,21,7,2,East,Yarrow,Achillea millefolium,18,3,4
+2009,S1,Fire,21,7,2,East,Diverse leaf cinquefoil,Potentilla diversifolia,1,1,4
+2009,S1,Fire,21,7,2,East,Club seed epilobium,Epilobium clavatum,1,1,4
+2009,S1,Fire,21,7,2,East,arctic lupin,Lupinus arcticus ,8,1,4
+2009,S1,Fire,21,7,2,East,Twinflower,Linnea borealis,25,18,4
+2009,S1,Fire,21,7,2,East,Bracted lousewort,Pedicularis bracteosa,47,8,4
+2009,S1,Fire,21,7,2,East,Red Columbine,Aquilegia formosa,2,2,4
+2009,S1,Fire,21,7,2,East,Leafy lousewort,Pedicularis racemosa,114,26,4
+2009,S3,Fire,21,7,2,North,Northern Golden-rod,Solidago multiradiata,123,15,3
+2009,S3,Fire,21,7,2,North,white hawkweed,Hieracium albiflorum,274,84,3
+2009,S3,Fire,21,7,2,North,Fleabane,Erigeron nivalis,19,13,3
+2009,S3,Fire,21,7,2,North,Arnica,Arnica sp.,5,5,3
+2009,S3,Fire,21,7,2,North,Orange hawkweed,Agoseris aurantica,2,2,3
+2009,S3,Fire,21,7,2,North,Pale agoseris,Agoseris glauca ,16,16,3
+2009,S3,Fire,21,7,2,North,Yarrow,Achillea millefolium,215,12,3
+2009,S3,Fire,21,7,2,North,Subalpine daisy,Erigeron peregrinus,41,32,3
+2009,S3,Fire,21,7,2,East,pink wintergreen,Pyrola asarifolia,142,23,3
+2009,S3,Fire,21,7,2,East,Bracted lousewort,Pedicularis bracteosa,36,4,3
+2009,S3,Fire,21,7,2,East,Fireweed,Chamaenerion angustifolium,8,2,3
+2009,S3,Fire,21,7,2,East,Subalpine daisy,Erigeron peregrinus,7,2,3
+2009,S3,Fire,21,7,2,East,Sitka burnet,Sanguisorba sitchensis,13,13,3
+2009,S3,Fire,21,7,2,East,arctic lupin,Lupinus arcticus ,18,5,3
+2009,S3,Fire,21,7,2,East,False Hellebore,Veratrum viride,604,4,3
+2009,S3,Fire,21,7,2,East,Sitka valerian,Valeriana sitchensis,1145,101,3
+2009,S3,Fire,21,7,2,South,arctic lupin,Lupinus arcticus ,29,9,3
+2009,S3,Fire,21,7,2,South,Fleabane,Erigeron nivalis,6,4,3
+2009,S3,Fire,21,7,2,South,Red Columbine,Aquilegia formosa,4,3,3
+2009,S3,Fire,21,7,2,South,Orange hawkweed,Agoseris aurantica,7,7,3
+2009,S3,Fire,21,7,2,South,Slender hawkweed,Hieracium gracile,2,2,3
+2009,S3,Fire,21,7,2,South,Yarrow,Achillea millefolium,296,15,3
+2009,S3,Fire,21,7,2,South,white hawkweed,Hieracium albiflorum,15,5,3
+2009,S3,Fire,21,7,2,South,Arnica,Arnica sp.,8,8,3
+2009,S3,Fire,21,7,2,South,Subalpine daisy,Erigeron peregrinus,6,3,3
+2009,S3,Fire,21,7,2,West,Arnica,Arnica sp.,3,2,3
+2009,S3,Fire,21,7,2,West,Subalpine daisy,Erigeron peregrinus,13,11,3
+2009,S3,Fire,21,7,2,West,Orange hawkweed,Agoseris aurantica,8,8,3
+2009,S3,Fire,21,7,2,West,white hawkweed,Hieracium albiflorum,124,16,3
+2009,S3,Fire,21,7,2,West,Fleabane,Erigeron nivalis,11,3,3
+2009,S3,Fire,21,7,2,West,Yarrow,Achillea millefolium,1195,39,3
+2009,S3,Fire,21,7,2,West,Sitka valerian,Valeriana sitchensis,120,7,3
+2009,S3,Fire,21,7,2,West,Bracted lousewort,Pedicularis bracteosa,1,1,3
+2009,S3,Fire,21,7,2,West,Pale agoseris,Agoseris glauca ,47,47,3
+2009,S3,Fire,21,7,2,West,arctic lupin,Lupinus arcticus ,53,9,3
+2010,S1,Fire,22,7,2,East,Arrowleaf Senecio,Senecio triangularis,69,15,0
+2010,S1,Fire,22,7,2,East,Fireweed,Chamaenerion angustifolium,66,17,0
+2010,S1,Fire,22,7,2,East,Subalpine daisy,Erigeron peregrinus,8,7,0
+2010,S1,Fire,22,7,2,East,Yarrow,Achillea millefolium,53,1,0
+2010,S1,Fire,22,7,2,East,white hawkweed,Hieracium albiflorum,25,6,0
+2010,S1,Fire,22,7,2,East,arnica,Arnica sp.,10,6,0
+2010,S1,Fire,22,7,2,North,False Hellebore,Veratrum viride,490,3,0
+2010,S1,Fire,22,7,2,North,arctic lupin,Lupinus arcticus ,42,6,0
+2010,S1,Fire,22,7,2,North,white hawkweed,Hieracium albiflorum,17,3,0
+2010,S1,Fire,22,7,2,North,Arrowleaf Senecio,Senecio triangularis,9,3,0
+2010,S1,Fire,22,7,2,North,Subalpine daisy,Erigeron peregrinus,42,42,0
+2010,S1,Fire,22,7,2,North,Fireweed,Chamaenerion angustifolium,27,3,0
+2010,S1,Fire,22,7,2,North,arnica,Arnica sp.,35,23,0
+2010,S1,Fire,22,7,2,North,sitka burnet,Sanguisorba sitchensis,55,52,0
+2010,S1,Fire,22,7,2,North,one sided pyrola ,Orthilia secunda,14,11,0
+2010,S1,Fire,22,7,2,North,Sitka valerian,Valeriana sitchensis,134,9,0
+2010,S1,Fire,22,7,2,North,Yarrow,Achillea millefolium,391,22,0
+2010,S1,Fire,22,7,2,West,Sitka valerian,Valeriana sitchensis,81,5,0
+2010,S1,Fire,22,7,2,West,Bracted lousewort,Pedicularis bracteosa,41,6,0
+2010,S1,Fire,22,7,2,West,Arrowleaf Senecio,Senecio triangularis,5,3,0
+2010,S1,Fire,22,7,2,West,Grass of Parnassus,Parnassia fimbrata,22,6,0
+2010,S1,Fire,22,7,2,West,Fireweed,Chamaenerion angustifolium,1,1,0
+2010,S1,Fire,22,7,2,West,Subalpine daisy,Erigeron peregrinus,104,93,0
+2010,S1,Fire,22,7,2,West,White rein orchid,Platanthera dilatata,16,1,0
+2010,S1,Fire,22,7,2,West,Yarrow,Achillea millefolium,99,8,0
+2010,S1,Fire,22,7,2,West,white hawkweed,Hieracium albiflorum,1,1,0
+2010,S1,Fire,22,7,2,West,arnica,Arnica sp.,35,21,0
+2010,S1,Fire,22,7,2,West,sitka burnet,Sanguisorba sitchensis,1,1,0
+2010,S1,Fire,22,7,2,West,arctic lupin,Lupinus arcticus ,18,6,0
+2010,S1,Fire,22,7,2,South,white hawkweed,Hieracium albiflorum,5,1,0
+2010,S1,Fire,22,7,2,South,Subalpine daisy,Erigeron peregrinus,22,22,0
+2010,S1,Fire,22,7,2,South,sitka burnet,Sanguisorba sitchensis,21,21,0
+2010,S1,Fire,22,7,2,South,Pale agoseris,Agoseris glauca ,1,1,0
+2010,S1,Fire,22,7,2,South,Yarrow,Achillea millefolium,22,2,0
+2010,S1,Fire,22,7,2,South,Pink pyrola,Pyrola asarifolia,8,1,0
+2010,S1,Fire,22,7,2,South,Fireweed,Chamaenerion angustifolium,5,2,0
+2010,S1,Fire,22,7,2,South,Arrowleaf Senecio,Senecio triangularis,4,2,0
+2010,S1,Fire,22,7,2,South,arnica,Arnica sp.,97,50,0
+2010,S1,Fire,22,7,2,South,Sitka valerian,Valeriana sitchensis,90,15,0
+2010,F1,Forest,22,7,2,West,arctic lupin,Lupinus arcticus ,54,11,1
+2010,F1,Forest,22,7,2,North,Small flowered penstemon,Penstemon procerus,31,2,1
+2010,F1,Forest,22,7,2,North,Yarrow,Achillea millefolium,8,1,1
+2010,F1,Forest,22,7,2,North,Arnica,Arnica sp.,2,2,1
+2010,F1,Forest,22,7,2,North,Racemose pussytoes,Antennaria racemosa,161,39,1
+2010,F1,Forest,22,7,2,East,pink mountain heather,Phyllodoce empetriformis,2,2,1
+2010,F1,Forest,22,7,2,East,Arnica,Arnica sp.,1,1,1
+2010,F1,Forest,22,7,2,East,Bracted lousewort,Pedicularis bracteosa,69,7,1
+2010,F1,Forest,22,7,2,East,White flowered Rhododendron,Rhododendron albiflorum,17,1,1
+2010,F1,Forest,22,7,2,South,pink mountain heather,Phyllodoce empetriformis,4,2,1
+2010,F1,Forest,22,7,2,South,arctic lupin,Lupinus arcticus ,61,11,1
+2010,F1,Forest,22,7,2,South,Subalpine daisy,Erigeron peregrinus,3,2,1
+2010,S2,Fire,22,7,2,South,white hawkweed,Hieracium albiflorum,73,10,0
+2010,S2,Fire,22,7,2,South,Arrowleaf Senecio,Senecio triangularis,4,2,0
+2010,S2,Fire,22,7,2,South,Fireweed,Chamaenerion angustifolium,13,6,0
+2010,S2,Fire,22,7,2,South,Subalpine daisy,Erigeron peregrinus,13,13,0
+2010,S2,Fire,22,7,2,South,Pale agoseris,Agoseris glauca ,6,6,0
+2010,S2,Fire,22,7,2,South,Arnica,Arnica sp.,35,29,0
+2010,S2,Fire,22,7,2,South,Bunchberry,Cornus canadensis,1,1,0
+2010,S2,Fire,22,7,2,South,Fleabane,Erigeron nivalis,70,8,0
+2010,S2,Fire,22,7,2,South,Sitka burnet,Sanguisorba sitchensis,31,30,0
+2010,S2,Fire,22,7,2,South,arctic lupin,Lupinus arcticus ,19,5,0
+2010,S2,Fire,22,7,2,South,Yarrow,Achillea millefolium,1595,73,0
+2010,S2,Fire,22,7,2,East,Yarrow,Achillea millefolium,3987,151,0
+2010,S2,Fire,22,7,2,East,Arnica,Arnica sp.,13,13,0
+2010,S2,Fire,22,7,2,East,Pale agoseris,Agoseris glauca ,1,1,0
+2010,S2,Fire,22,7,2,East,Subalpine daisy,Erigeron peregrinus,44,44,0
+2010,S2,Fire,22,7,2,East,Fleabane,Erigeron nivalis,13,3,0
+2010,S2,Fire,22,7,2,East,Pearly Everlasting,Anaphilis margaritacea,49,13,0
+2010,S2,Fire,22,7,2,East,white hawkweed,Hieracium albiflorum,40,12,0
+2010,S2,Fire,22,7,2,East,Fireweed,Chamaenerion angustifolium,3,1,0
+2010,S2,Fire,22,7,2,East,Sitka burnet,Sanguisorba sitchensis,115,109,0
+2010,S2,Fire,22,7,2,East,Arrowleaf Senecio,Senecio triangularis,3,2,0
+2010,S2,Fire,22,7,2,East,Bracted lousewort,Pedicularis bracteosa,3,2,0
+2010,S2,Fire,22,7,2,East,Sitka valerian,Valeriana sitchensis,12,2,0
+2010,S2,Fire,22,7,2,East,Red Columbine,Aquilegia formosa,1,1,0
+2010,S2,Fire,22,7,2,North,Bunchberry,Cornus canadensis,3,3,0
+2010,S2,Fire,22,7,2,North,white hawkweed,Hieracium albiflorum,5,1,0
+2010,S2,Fire,22,7,2,North,Fireweed,Chamaenerion angustifolium,90,21,0
+2010,S2,Fire,22,7,2,North,Arrowleaf Senecio,Senecio triangularis,2,2,0
+2010,S2,Fire,22,7,2,North,Alpine American Speedwell,Veronica wormskjoldii,2,1,0
+2010,S2,Fire,22,7,2,North,Norwegian mugwort ,Artemisia norvegica,23,4,0
+2010,S2,Fire,22,7,2,North,Subalpine daisy,Erigeron peregrinus,9,7,0
+2010,S2,Fire,22,7,2,North,Yarrow,Achillea millefolium,88,5,0
+2010,S2,Fire,22,7,2,North,Pale agoseris,Agoseris glauca ,7,2,0
+2010,S2,Fire,22,7,2,North,Pearly Everlasting,Anaphilis margaritacea,2,2,0
+2010,S2,Fire,22,7,2,North,Arnica,Arnica sp.,24,19,0
+2010,S2,Fire,22,7,2,North,Fleabane,Erigeron nivalis,6,1,0
+2010,S2,Fire,22,7,2,North,sitka burnet,Sanguisorba sitchensis,13,10,0
+2010,S2,Fire,22,7,2,North,arctic lupin,Lupinus arcticus ,7,2,0
+2010,S2,Fire,22,7,2,West,Arnica,Arnica sp.,14,11,0
+2010,S2,Fire,22,7,2,West,white hawkweed,Hieracium albiflorum,12,12,0
+2010,S2,Fire,22,7,2,West,arctic lupin,Lupinus arcticus ,13,2,0
+2010,S2,Fire,22,7,2,West,Pale agoseris,Agoseris glauca ,14,14,0
+2010,S2,Fire,22,7,2,West,Fireweed,Chamaenerion angustifolium,6,2,0
+2010,S2,Fire,22,7,2,West,Fleabane,Erigeron nivalis,13,3,0
+2010,S2,Fire,22,7,2,West,Bunchberry,Cornus canadensis,95,95,0
+2017,F1,Forest,3,8,2,East,one flowered wintergreen,Moneses uniflora,1,1,0
+2017,F1,Forest,3,8,2,North,NA,NA,0,0,0
+2017,F1,Forest,3,8,2,West,NA,NA,0,0,0
+2017,F1,Forest,3,8,2,South,Pinedrops ,Pterospora andromeda,24,1,0
+2017,F2,Forest,3,8,2,East,NA,NA,0,0,0
+2017,F2,Forest,3,8,2,West,NA,NA,0,0,0
+2017,F2,Forest,3,8,2,South,NA,NA,0,0,0
+2017,F2,Forest,3,8,2,North,NA,NA,0,0,0
+2017,S1,Fire,3,8,2,South,Fireweed,Chamaenerion angustifolium,123,32,1
+2017,S1,Fire,3,8,2,South,Douglas Aster,Aster subspicatus,755,124,1
+2017,S1,Fire,3,8,2,South,Yarrow,Achillea millefolium,354,2,1
+2017,S1,Fire,3,8,2,South,Spreading dogbane,Apocynum androsaemifolium,73,4,1
+2017,S1,Fire,3,8,2,South,Branched Yellow Hawkweed,Hieracium sp.,13,1,1
+2017,S1,Fire,3,8,2,East,Douglas Aster,Aster subspicatus,1812,231,1
+2017,S1,Fire,3,8,2,East,snowberry,Symphoricarpos albus,102,26,1
+2017,S1,Fire,3,8,2,East,Fireweed,Chamaenerion angustifolium,44,8,1
+2017,S1,Fire,3,8,2,West,Douglas Aster,Aster subspicatus,120,29,1
+2017,S1,Fire,3,8,2,West,Fireweed,Chamaenerion angustifolium,211,42,1
+2017,S1,Fire,3,8,2,West,Branched Yellow Hawkweed,Hieracium sp.,20,3,1
+2017,S1,Fire,3,8,2,West,Yarrow,Achillea millefolium,153,4,1
+2017,S1,Fire,3,8,2,West,Spreading dogbane,Apocynum androsaemifolium,82,2,1
+2017,S1,Fire,3,8,2,West,Slender-fruited willowherb,Epilobium leptocarpum,13,1,1
+2017,S1,Fire,3,8,2,North,Arabidopsis lyrata,Arabidopsis lyrata,42,11,1
+2017,S1,Fire,3,8,2,North,Fireweed,Chamaenerion angustifolium,62,12,1
+2017,S1,Fire,3,8,2,North,Yarrow,Achillea millefolium,107,1,1
+2017,S1,Fire,3,8,2,North,snowberry,Symphoricarpos albus,8,3,1
+2017,S1,Fire,3,8,2,North,Slender-fruited willowherb,Epilobium leptocarpum,23,5,1
+2017,S1,Fire,3,8,2,North,Douglas Aster,Aster subspicatus,388,66,1
+2017,S4,Fire,3,8,2,South,Fireweed,Chamaenerion angustifolium,15,2,3
+2017,S4,Fire,3,8,2,South,Pearly Everlasting,Anaphilis margaritacea,7,1,3
+2017,S4,Fire,3,8,2,South,Bicknell's geranium,Geranium bicknellii,1,1,3
+2017,S4,Fire,3,8,2,North,white hawkweed,Hieracium albiflorum,31,3,3
+2017,S4,Fire,3,8,2,North,Fireweed,Chamaenerion angustifolium,316,55,3
+2017,S4,Fire,3,8,2,West,Fireweed,Chamaenerion angustifolium,49,13,3
+2017,S4,Fire,3,8,2,West,arnica,Arnica sp.,2,2,3
+2017,S4,Fire,3,8,2,West,Slender-fruited willowherb,Epilobium leptocarpum,8,2,3
+2017,S4,Fire,3,8,2,West,Rock Harlequin,Capnoides sempervirens,5,2,3
+2017,S4,Fire,3,8,2,West,white hawkweed,Hieracium albiflorum,27,5,3
+2017,S4,Fire,3,8,2,East,white hawkweed,Hieracium albiflorum,2,1,3
+2017,S4,Fire,3,8,2,East,Bicknell's geranium,Geranium bicknellii,8,1,3
+2017,S4,Fire,3,8,2,East,Fireweed,Chamaenerion angustifolium,25,7,3
+2017,S4,Fire,3,8,2,East,White spirea,Spiraea betulifolia,20,1,3
+2017,S2,Fire,4,8,2,West,Pearly Everlasting,Anaphilis margaritacea,1,1,1
+2017,S2,Fire,4,8,2,West,Fireweed,Chamaenerion angustifolium,6,2,1
+2017,S2,Fire,4,8,2,West,Douglas Aster,Aster subspicatus,196,38,1
+2017,S2,Fire,4,8,2,East,Douglas Aster,Aster subspicatus,85,22,1
+2017,S2,Fire,4,8,2,East,Showy aster,Eurybia conspicua,2,2,1
+2017,S2,Fire,4,8,2,East,Fireweed,Chamaenerion angustifolium,3,1,1
+2017,S2,Fire,4,8,2,South,Fireweed,Chamaenerion angustifolium,22,5,1
+2017,S2,Fire,4,8,2,South,white hawkweed,Hieracium albiflorum,24,2,1
+2017,S2,Fire,4,8,2,North,Showy aster,Eurybia conspicua,321,58,1
+2017,S2,Fire,4,8,2,North,Fireweed,Chamaenerion angustifolium,23,2,1
+2017,S2,Fire,4,8,2,North,Douglas Aster,Aster subspicatus,181,21,1
+2017,S3,Fire,4,8,2,East,Fireweed,Chamaenerion angustifolium,9,2,0
+2017,S3,Fire,4,8,2,South,Spreading dogbane,Apocynum androsaemifolium,13,2,0
+2017,S3,Fire,4,8,2,South,Slender-fruited willowherb,Epilobium leptocarpum,5,2,0
+2017,S3,Fire,4,8,2,North,Fireweed,Chamaenerion angustifolium,82,18,0
+2017,S3,Fire,4,8,2,North,Douglas Aster,Aster subspicatus,196,19,0
+2017,S3,Fire,4,8,2,West,Fireweed,Chamaenerion angustifolium,8,3,0
+2017,S3,Fire,4,8,2,West,Douglas Knotweed,Polygonum douglasii,23,3,0
+2017,S3,Fire,4,8,2,West,Slender-fruited willowherb,Epilobium leptocarpum,120,44,0
+2017,S3,Fire,4,8,2,West,Redstem ceanothus,Ceanothus sanguineus,10,1,0
+2017,F3,Forest,4,8,2,South,NA,NA,0,0,2
+2017,F3,Forest,4,8,2,East,paintbrush,Castilleja miniata,22,8,2
+2017,F3,Forest,4,8,2,East,wooly hawkweed,Hieracium triste,5,3,2
+2017,F3,Forest,4,8,2,East,white hawkweed,Hieracium albiflorum,2,1,2
+2017,F3,Forest,4,8,2,North,wooly hawkweed,Hieracium triste,9,5,2
+2017,F3,Forest,4,8,2,West,paintbrush,Castilleja miniata,32,7,2
+2017,F4,Forest,4,8,2,West,Showy aster,Eurybia conspicua,1,1,2
+2017,F4,Forest,4,8,2,West,white hawkweed,Hieracium albiflorum,5,4,2
+2017,F4,Forest,4,8,2,West,wooly hawkweed,Hieracium triste,2,1,2
+2017,F4,Forest,4,8,2,South,wooly hawkweed,Hieracium triste,2,2,2
+2017,F4,Forest,4,8,2,South,white hawkweed,Hieracium albiflorum,9,6,2
+2017,F4,Forest,4,8,2,South,Douglas Aster,Aster subspicatus,2,1,2
+2017,F4,Forest,4,8,2,East,white hawkweed,Hieracium albiflorum,2,1,2
+2017,F4,Forest,4,8,2,North,wooly hawkweed,Hieracium triste,6,5,2
+2017,F4,Forest,4,8,2,North,snowberry,Symphoricarpos albus,9,6,2
+2010,S3,Fire,9,8,2,West,Subalpine daisy,Erigeron peregrinus,8,5,3
+2010,S3,Fire,9,8,2,West,arctic lupin,Lupinus arcticus ,13,4,4
+2010,S3,Fire,9,8,2,West,Sitka burnet,Sanguisorba sitchensis,8,5,5
+2010,S3,Fire,9,8,2,West,Yarrow,Achillea millefolium,117,5,6
+2010,S3,Fire,9,8,2,West,Norwegian mugwort ,Artemisia norvegica,135,9,7
+2010,S3,Fire,9,8,2,West,Pink pyrola,Pyrola asarifolia,10,2,8
+2010,S3,Fire,9,8,2,West,Fireweed,Chamaenerion angustifolium,19,6,9
+2010,S3,Fire,9,8,2,West,Arnica,Arnica sp.,62,22,10
+2010,S3,Fire,9,8,2,North,Arnica,Arnica sp.,3,2,11
+2010,S3,Fire,9,8,2,North,arctic lupin,Lupinus arcticus ,20,8,12
+2010,S3,Fire,9,8,2,North,Pale agoseris,Agoseris glauca ,12,12,13
+2010,S3,Fire,9,8,2,North,Fireweed,Chamaenerion angustifolium,1,1,14
+2010,S3,Fire,9,8,2,North,Pearly Everlasting,Anaphilis margaritacea,10,4,15
+2010,S3,Fire,9,8,2,North,Subalpine daisy,Erigeron peregrinus,1,1,16
+2010,S3,Fire,9,8,2,North,Yarrow,Achillea millefolium,16,4,17
+2010,S3,Fire,9,8,2,North,white hawkweed,Hieracium albiflorum,5,1,18
+2010,S3,Fire,9,8,2,South,Subalpine daisy,Erigeron peregrinus,83,65,19
+2010,S3,Fire,9,8,2,South,Yarrow,Achillea millefolium,94,8,20
+2010,S3,Fire,9,8,2,South,Sitka burnet,Sanguisorba sitchensis,19,11,21
+2010,S3,Fire,9,8,2,South,arnica,Arnica sp.,21,12,22
+2010,S3,Fire,9,8,2,South,Bunchberry,Cornus canadensis,1,1,23
+2010,S3,Fire,9,8,2,South,arctic lupin,Lupinus arcticus ,74,18,24
+2010,S3,Fire,9,8,2,East,Yarrow,Achillea millefolium,124,14,25
+2010,S3,Fire,9,8,2,East,arnica,Arnica sp.,5,4,26
+2010,S3,Fire,9,8,2,East,Pale agoseris,Agoseris glauca ,2,2,27
+2010,S3,Fire,9,8,2,East,Subalpine daisy,Erigeron peregrinus,16,9,28
+2010,S3,Fire,9,8,2,East,white hawkweed,Hieracium albiflorum,14,4,29
+2010,S3,Fire,9,8,2,East,Bunchberry,Cornus canadensis,1,1,30
+2010,S4,Fire,9,8,2,West,white hawkweed,Hieracium albiflorum,179,29,4
+2010,S4,Fire,9,8,2,West,Fireweed,Chamaenerion angustifolium,10,4,4
+2010,S4,Fire,9,8,2,West,White-flowered rhododendron,Rhododendron albiflorum,2,1,4
+2010,S4,Fire,9,8,2,West,Pearly Everlasting,Anaphilis margaritacea,9,2,4
+2010,S4,Fire,9,8,2,West,Subalpine daisy,Erigeron peregrinus,2,1,4
+2010,S4,Fire,9,8,2,West,Sitka burnet,Sanguisorba sitchensis,11,6,4
+2010,S4,Fire,9,8,2,North,Pearly Everlasting,Anaphilis margaritacea,1180,90,4
+2010,S4,Fire,9,8,2,North,white hawkweed,Hieracium albiflorum,150,38,4
+2010,S4,Fire,9,8,2,North,Fireweed,Chamaenerion angustifolium,51,12,4
+2010,S4,Fire,9,8,2,North,Yarrow,Achillea millefolium,175,6,4
+2010,S4,Fire,9,8,2,North,Fleabane,Erigeron nivalis,28,5,4
+2010,S4,Fire,9,8,2,East,Pearly Everlasting,Anaphilis margaritacea,76,6,4
+2010,S4,Fire,9,8,2,East,arnica,Arnica sp.,11,8,4
+2010,S4,Fire,9,8,2,East,Fireweed,Chamaenerion angustifolium,16,4,4
+2010,S4,Fire,9,8,2,East,white hawkweed,Hieracium albiflorum,10,5,4
+2010,S4,Fire,9,8,2,East,Yarrow,Achillea millefolium,217,20,4
+2010,S4,Fire,9,8,2,South,arnica,Arnica sp.,1,1,4
+2010,S4,Fire,9,8,2,South,Fireweed,Chamaenerion angustifolium,33,16,4
+2010,S4,Fire,9,8,2,South,Yarrow,Achillea millefolium,381,20,4
+2010,S4,Fire,9,8,2,South,Subalpine daisy,Erigeron peregrinus,33,33,4
+2010,S4,Fire,9,8,2,South,Sitka burnet,Sanguisorba sitchensis,69,30,4
+2010,S4,Fire,9,8,2,South,Pale agoseris,Agoseris glauca ,3,3,4
+2010,S4,Fire,9,8,2,South,white hawkweed,Hieracium albiflorum,20,5,4
+2009,S4,Fire,9,8,2,North,white hawkweed,Hieracium albiflorum,213,90,0
+2009,S4,Fire,9,8,2,North,Slender hawkweed,Hieracium gracile,2,1,0
+2009,S4,Fire,9,8,2,North,arctic lupin,Lupinus arcticus ,19,5,0
+2009,S4,Fire,9,8,2,North,Pearly Everlasting,Anaphilis margaritacea,7,4,0
+2009,S4,Fire,9,8,2,South,white hawkweed,Hieracium albiflorum,65,27,0
+2009,S4,Fire,9,8,2,South,Yarrow,Achillea millefolium,215,8,0
+2009,S4,Fire,9,8,2,South,arctic lupin,Lupinus arcticus ,52,5,0
+2009,S4,Fire,9,8,2,East,white hawkweed,Hieracium albiflorum,20,12,0
+2009,S4,Fire,9,8,2,East,arctic lupin,Lupinus arcticus ,66,6,0
+2009,S4,Fire,9,8,2,West,white hawkweed,Hieracium albiflorum,41,19,0
+2009,S4,Fire,9,8,2,West,arctic lupin,Lupinus arcticus ,66,8,0
+2009,S4,Fire,9,8,2,West,Fireweed,Chamaenerion angustifolium,8,3,0
+2009,S4,Fire,9,8,2,West,Pearly Everlasting,Anaphilis margaritacea,23,8,0
+2009,S4,Fire,9,8,2,West,Subalpine daisy,Erigeron peregrinus,28,19,0
+2010,F4,Forest,10,8,2,West,Twinflower,Linnea borealis,14,4,0
+2010,F4,Forest,10,8,2,South,Yarrow,Achillea millefolium,67,3,0
+2010,F4,Forest,10,8,2,North,Twinflower,Linnea borealis,2,2,0
+2010,F4,Forest,10,8,2,East,Bunchberry,Cornus canadensis,5,5,0
+2010,F4,Forest,10,8,2,East,Twinflower,Linnea borealis,37,30,0
+2018,F1,Forest,10,8,2,South,Arnica,Arnica sp.,2,2,0
+2018,F1,Forest,10,8,2,East,NA,NA,0,0,0
+2018,F1,Forest,10,8,2,North,NA,NA,0,0,0
+2018,F1,Forest,10,8,2,West,Twinflower,Linnea borealis,375,42,0
+2018,S1,Fire,10,8,2,East,NA,NA,0,0,1
+2018,S1,Fire,10,8,2,North,NA,NA,0,0,1
+2018,S1,Fire,10,8,2,South,NA,NA,0,0,1
+2018,S1,Fire,10,8,2,West,NA,NA,0,0,1
+2010,F3,Forest,11,8,2,West,Arnica,Arnica sp.,24,18,0
+2010,F3,Forest,11,8,2,West,Pink pyrola,Pyrola asarifolia,4,2,0
+2010,F3,Forest,11,8,2,West,Sitka valerian,Valeriana sitchensis,2,1,0
+2010,F3,Forest,11,8,2,West,White rein orchid,Platanthera dilatata,10,1,0
+2010,F3,Forest,11,8,2,West,Subalpine daisy,Erigeron peregrinus,5,5,0
+2010,F3,Forest,11,8,2,West,Grass of Parnassus,Parnassia fimbrata,47,47,0
+2010,F3,Forest,11,8,2,South,Twinflower,Linnea borealis,5,4,0
+2010,F3,Forest,11,8,2,South,Arnica,Arnica sp.,15,12,0
+2010,F3,Forest,11,8,2,South,Bunchberry,Cornus canadensis,24,24,0
+2010,F3,Forest,11,8,2,East,Bunchberry,Cornus canadensis,2,2,0
+2010,F3,Forest,11,8,2,East,Twinflower,Linnea borealis,2,1,0
+2010,F3,Forest,11,8,2,East,Subalpine daisy,Erigeron peregrinus,1,1,0
+2010,F3,Forest,11,8,2,East,Arnica,Arnica sp.,27,18,0
+2010,F3,Forest,11,8,2,North,Twinflower,Linnea borealis,27,19,0
+2010,F3,Forest,11,8,2,North,Sitka valerian,Valeriana sitchensis,15,2,0
+2010,F3,Forest,11,8,2,North,Arnica,Arnica sp.,1,1,0
+2010,F3,Forest,11,8,2,North,Bunchberry,Cornus canadensis,17,17,0
+2009,F3,Forest,11,8,2,North,Sitka valerian,Valeriana sitchensis,391,35,2
+2009,F3,Forest,11,8,2,North,Arrowleaf Senecio,Senecio triangularis,52,14,2
+2009,F3,Forest,11,8,2,North,Drummond's Cinquefoil,Potentilla drummondii,2,2,2
+2009,F3,Forest,11,8,2,North,Pink pyrola,Pyrola asarifolia,14,3,2
+2009,F3,Forest,11,8,2,North,Arnica,Arnica sp.,107,58,2
+2009,F3,Forest,11,8,2,North,Subalpine daisy,Erigeron peregrinus,1,1,2
+2009,F3,Forest,11,8,2,West,Sitka valerian,Valeriana sitchensis,573,56,2
+2009,F3,Forest,11,8,2,West,Arnica,Arnica sp.,36,31,2
+2009,F3,Forest,11,8,2,West,Drummond's Cinquefoil,Potentilla drummondii,6,4,2
+2009,F3,Forest,11,8,2,West,Pink pyrola,Pyrola asarifolia,3,1,2
+2009,F3,Forest,11,8,2,West,Yarrow,Achillea millefolium,7,1,2
+2009,F3,Forest,11,8,2,West,Arrowleaf Senecio,Senecio triangularis,36,11,2
+2009,F3,Forest,11,8,2,West,wooly hawkweed,Hieracium triste,1,1,2
+2009,F3,Forest,11,8,2,West,Sitka burnet,Sanguisorba sitchensis,1,1,2
+2009,F3,Forest,11,8,2,West,Subalpine daisy,Erigeron peregrinus,7,4,2
+2009,F3,Forest,11,8,2,West,Bracted lousewort,Pedicularis bracteosa,15,2,2
+2009,F3,Forest,11,8,2,South,Drummond's Cinquefoil,Potentilla drummondii,7,7,2
+2009,F3,Forest,11,8,2,South,Subalpine daisy,Erigeron peregrinus,21,13,2
+2009,F3,Forest,11,8,2,South,Norwegian mugwort ,Artemisia norvegica,45,3,2
+2009,F3,Forest,11,8,2,South,Pink pyrola,Pyrola asarifolia,1,1,2
+2009,F3,Forest,11,8,2,South,Sitka burnet,Sanguisorba sitchensis,1,1,2
+2009,F3,Forest,11,8,2,South,Arrowleaf Senecio,Senecio triangularis,35,18,2
+2009,F3,Forest,11,8,2,South,arnica,Arnica sp.,94,51,2
+2009,F3,Forest,11,8,2,South,Sitka valerian,Valeriana sitchensis,586,60,2
+2009,F3,Forest,11,8,2,East,Pink pyrola,Pyrola asarifolia,35,4,2
+2009,F3,Forest,11,8,2,East,Arrowleaf Senecio,Senecio triangularis,23,5,2
+2009,F3,Forest,11,8,2,East,Subalpine daisy,Erigeron peregrinus,4,4,2
+2009,F3,Forest,11,8,2,East,Sitka burnet,Sanguisorba sitchensis,2,2,2
+2009,F3,Forest,11,8,2,East,arnica,Arnica sp.,49,27,2
+2009,F3,Forest,11,8,2,East,Sitka valerian,Valeriana sitchensis,335,43,2
+2009,F4,Forest,11,8,2,South,Sitka valerian,Valeriana sitchensis,53,6,1
+2009,F4,Forest,11,8,2,South,arnica,Arnica sp.,4,3,1
+2009,F4,Forest,11,8,2,South,Drummond's Cinquefoil,Potentilla drummondii,2,2,1
+2009,F4,Forest,11,8,2,South,paintbrush,Castilleja miniata,2,1,1
+2009,F4,Forest,11,8,2,South,Arrowleaf Senecio,Senecio triangularis,8,4,1
+2009,F4,Forest,11,8,2,South,Sitka burnet,Sanguisorba sitchensis,5,3,1
+2009,F4,Forest,11,8,2,South,Subalpine daisy,Erigeron peregrinus,10,9,1
+2009,F4,Forest,11,8,2,South,Bracted lousewort,Pedicularis bracteosa,2,1,1
+2009,F4,Forest,11,8,2,North,Sitka valerian,Valeriana sitchensis,312,22,1
+2009,F4,Forest,11,8,2,North,Drummond's Cinquefoil,Potentilla drummondii,1,1,1
+2009,F4,Forest,11,8,2,North,Subalpine daisy,Erigeron peregrinus,5,5,1
+2009,F4,Forest,11,8,2,North,Norwegian mugwort ,Artemisia norvegica,75,4,1
+2009,F4,Forest,11,8,2,North,Pink pyrola,Pyrola asarifolia,58,13,1
+2009,F4,Forest,11,8,2,North,Yarrow,Achillea millefolium,27,2,1
+2009,F4,Forest,11,8,2,West,Sitka valerian,Valeriana sitchensis,81,8,1
+2009,F4,Forest,11,8,2,West,Drummond's Cinquefoil,Potentilla drummondii,1,1,1
+2009,F4,Forest,11,8,2,West,Subalpine daisy,Erigeron peregrinus,19,16,1
+2009,F4,Forest,11,8,2,West,Bracted lousewort,Pedicularis bracteosa,2,1,1
+2009,F4,Forest,11,8,2,West,Norwegian mugwort ,Artemisia norvegica,24,6,1
+2009,F4,Forest,11,8,2,East,one sided pyrola ,Orthilia secunda,3,1,1
