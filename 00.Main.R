@@ -41,8 +41,9 @@ for (ii in c("raw_data","data_for_run","models","saved")){
   } 
 }
 
-## The only thing you'll need to manually do is download the data from
-## the paper's Data Dryad and put it into the raw_data folder!
+## Next you'll need to put the data into the raw_data folder manually
+## by downloading the data from the paper's Data Dryad or github page
+## (https://github.com/Hanna-Jackson/bumble_bee_habitat). 
 
 
 
@@ -189,28 +190,28 @@ source("6.Initialize_For_Plotting.R")
 
 
 ## ~~~ Figure 3: Data Boxplots ~~~  
-source("Plot_Data_Boxplots.R")
-pdf.f(f = plot.data.boxplots,           ## The function loaded in when we sourced
+source("Fig3_Data_Boxplots.R")
+pdf.f(f = plot.data.boxplots,            ## The function loaded in when we sourced
       file = "~/Desktop/distofdata.pdf", ## The file path you want your figure to save to 
       width = 7,                         ## PDF width
       height = 7)                        ## PDF height 
 
 ## ~~~ Figure 4: Effect sizes ~~~
-source("Plot_Effect_Sizes.R")
+source("Fig4_Effect_Sizes.R")
 pdf.f(f=make.effect.size.fig,       
       file = "~/Desktop/effectsize.pdf",  
       width =7,                         
       height = 5)
 
 ## ~~~ Figure 5: Occupancy vs Covariates ~~~
-source("Plot_Occupancy.R")
+source("Fig5_Occupancy.R")
 pdf.f(f = make.occ.figure,       
       file = "~/Desktop/occ.pdf",  
       width = 8,                         
       height = 8)  
 
 ## ~~~ Figure 6: Detection vs Covariates ~~~
-source("Plot_Detection.R")
+source("Fig6_Detection.R")
 pdf.f(f = make.det.fig,       
       file = "~/Desktop/det.pdf",  
       width = 11.3,                         
@@ -221,13 +222,13 @@ pdf.f(f = make.det.fig,
 ## ~~~~~~~~~~ Appendix Figures ~~~~~~~~~~~
 
 ## ~~~ Figure A1: Site correlations ~~~
-source("Plot_site_data.R")
+source("FigA1_Site_Correlations.R")
 pdf.f(f = plot.site.data,
       file = "~/Desktop/distofsite.pdf",
       width = 12, height = 12)
 
 ## ~~~ Figure A2: Visit correlations ~~~
-source("Plot_visit_data.R")
+source("FigA2_Visit_Correlations.R")
 pdf.f(f = plot.visit.data,
       file = "~/Desktop/distofvisit.pdf",
       width = 20, height = 20)
