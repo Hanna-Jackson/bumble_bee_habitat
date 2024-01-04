@@ -1,4 +1,5 @@
 # Johnson et al 2023. Positive impact of post-fire environment on bumble bees not explained by habitat variables in a remote forested ecosystem
+
 View full paper [here](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9743)
 ---
 Hello and thank you for taking the time to look at the data and code for our study! If you run into any problems, or have any questions or concerns please feel free to email me at hmj2@sfu.ca (especially if you're planning to use the data!)
