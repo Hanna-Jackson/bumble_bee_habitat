@@ -1,12 +1,10 @@
 # Johnson et al 2023. Positive impact of post-fire environment on bumble bees not explained by habitat variables in a remote forested ecosystem
-
-View full paper [here](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9743)
 ---
 Hello and thank you for taking the time to look at the data and code for our study! If you run into any problems, or have any questions or concerns please feel free to email me at hmj2@sfu.ca (especially if you're planning to use the data!)
 Best of luck!
 - Hanna Jackson, on behalf of all coauthors 
 ___
-
+View full paper [here](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9743)
 ## Introduction/Summary 
 We investigated the effect of burn status (whether a site had previously been burned by a wildfire), floral abundance, floral richness and canopy cover on bumble bee species' occupancy in Tweedsmuir Provincial  Park Western Canada. To do this we used an **Occupancy Model**, which can be conceptualized as two, linked Generalized Linear Models, where we model both site **occupancy probability** and a quantity called **detection probability**, which is roughly equivalent to sampling bias. In our study we model environmental covariates to both occupancy and detection probability to try to correct our estimates of occupancy probability for biased sampling (imperfect detection probability). 
 
